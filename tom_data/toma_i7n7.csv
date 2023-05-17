@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,pair of water goggles,pair of water goggles.,0.98,True,7
+1,bow,bow.,0.95,True,7
+2,spatula,spatula.,0.83,True,7
+3,pair of scissors,pair of scissors.,0.95,True,7
+4,acorn,acorn.,0.73,True,7
+5,trash bag,trash bag.,0.51,True,7
+6,flyswatter,flyswatter.,0.98,True,7
+7,chair,chair.,0.93,True,7
+8,orange,type of orange.,0.56,True,7
+9,blowdryer,blowdryer.,0.91,True,7
+10,pencil holder,pencil holder.,1.0,True,7
+11,dog,dog.,0.61,True,7
+12,hand mirror,hand mirror.,0.98,True,7
+13,football,football.,0.89,True,7
+14,crow,type of bird.,0.61,False,7
+15,photo album,photo album.,0.8,True,7
+16,outlet,outlet.,0.66,True,7
+17,multitool,multitool.,0.82,True,7
+18,bottle of paint,bottle of paint.,0.76,True,7
+19,carrot,carrot.,0.87,True,7

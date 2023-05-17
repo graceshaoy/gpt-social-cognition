@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,piece of sand paper,piece of sand paper.,0.34,True,8
+1,pocketknife,pocketknife.,0.79,True,8
+2,bookmark,bookmark.,0.87,True,8
+3,clothes pin,clothes pin.,0.96,True,8
+4,box of tissues,box of tissues.,0.64,True,8
+5,window,window.,0.96,True,8
+6,domino set,domino set.,0.86,True,8
+7,washing machine,washing machine.,0.76,True,8
+8,light bulb,light bulb.,0.82,True,8
+9,sailboat,sailboat.,0.89,True,8
+10,can of whipped cream,can of whipped cream.,0.52,True,8
+11,statuette,statuette.,0.78,True,8
+12,canteen,canteen.,0.95,True,8
+13,flag,flag.,0.93,True,8
+14,stick of incense,stick of incense.,0.93,True,8
+15,scotch tape,scotch tape.,0.34,True,8
+16,dagger,dagger.,0.62,True,8
+17,bottle of pills,bottle of pills.,0.84,True,8
+18,ocarina,ocarina.,0.92,True,8
+19,money,Spanish coin.,0.26,False,8

@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,bag of cotton balls,bag of cotton balls.,0.31,True,10
+1,hair pin,hair pin.,0.93,True,10
+2,package of crisp and crunchy edibles,package of crisp and crunchy edibles.,0.63,True,10
+3,cookie tin,cookie tin.,0.84,True,10
+4,rolling pin,rolling pin.,0.95,True,10
+5,carton of ice cream,carton of ice cream.,0.51,True,10
+6,chocolate,type of chocolate.,0.51,True,10
+7,pencil,pencil.,0.97,True,10
+8,food,type of food.,0.86,True,10
+9,washcloth,washcloth.,0.59,True,10
+10,jar of jam,jar of jam.,0.89,True,10
+11,spice bottle,spice bottle.,0.94,True,10
+12,toy robot,toy robot.,0.99,True,10
+13,carrots,carrot.,0.5,False,10
+14,toothbrush,toothbrush.,0.8,True,10
+15,snowglobe,snowglobe.,0.98,True,10
+16,carrots,carrot.,0.65,False,10
+17,empty bottle,empty bottle.,0.51,True,10
+18,cell phone,cell phone.,0.87,True,10
+19,pepper shaker,pepper shaker.,0.64,True,10

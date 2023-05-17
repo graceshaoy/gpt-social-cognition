@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,book,book.,0.7,True,7
+1,sofa,sofa.,0.76,True,7
+2,few batteries,type of battery.,0.33,False,7
+3,outlet,outlet.,0.79,True,7
+4,plush octopus,plush octopus.,0.94,True,7
+5,container of pudding,container of pudding.,0.65,True,7
+6,pack of cards,pack of cards.,0.91,True,7
+7,grocery list,grocery list.,0.85,True,7
+8,sheep,type of sheep.,0.39,True,7
+9,jar of peanut butter,jar of peanut butter.,0.91,True,7
+10,clay pot,clay pot.,0.87,True,7
+11,window,window.,0.96,True,7
+12,deodorant,deodorant.,0.82,True,7
+13,model car,model car.,0.97,True,7
+14,butter knife,butter knife.,0.85,True,7
+15,pair of safety goggles,type of safety goggles.,0.25,False,7
+16,package of glitter,package of glitter.,0.72,True,7
+17,spool of ribbon,spool of ribbon.,0.91,True,7
+18,coffee mug,coffee mug.,0.93,True,7
+19,tomato,tomato.,0.96,True,7

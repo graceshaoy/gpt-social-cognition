@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,box of baking soda,type of Mexican cheese.,0.59,False,9
+1,sharpie,sharpie.,0.72,True,9
+2,quilt,quilt.,0.89,True,9
+3,sheep,sheep.,0.8,True,9
+4,plush dog,plush toy.,0.94,False,9
+5,food,type of food.,0.86,True,9
+6,package of glitter,package of glitter.,0.84,True,9
+7,whale,whale.,0.6,True,9
+8,carrot,carrot.,0.94,True,9
+9,bottle cap,bottle cap.,0.99,True,9
+10,game cartridge,game cartridge.,0.93,True,9
+11,spring,spring.,0.88,True,9
+12,box of Q-tips,box of Q-tips.,0.42,True,9
+13,screw,screw.,0.97,True,9
+14,bottle of syrup,bottle of syrup.,0.88,True,9
+15,bandana,bandana.,0.79,True,9
+16,crowbar,crowbar.,0.79,True,9
+17,bottle cap,bottle cap.,0.97,True,9
+18,cat,cat.,0.47,True,9
+19,glasses,glasses.,0.62,True,9

@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,packet of seeds,type of seed.,0.75,False,3
+1,crowbar,crowbar.,0.61,True,3
+2,hamster,type of pet hamster.,0.39,True,3
+3,apple,type of fruit.,0.69,False,3
+4,pair of tongs,pair of tongs.,0.4,True,3
+5,harmonica,musical instrument.,0.44,False,3
+6,empty tin can,type of Spanish tomato.,0.46,False,3
+7,matchbook,matchbook.,0.98,True,3
+8,model car,model car.,0.98,True,3
+9,box of Q-tips,type of Mexican cheese.,0.53,False,3
+10,tube of lipstick,tube of lipstick.,0.84,True,3
+11,music CD,music CD.,0.46,True,3
+12,shovel,shovel.,0.49,True,3
+13,tissue box,tissue box.,0.92,True,3
+14,squirrel,"type of animal, likely a squirrel.",0.44,True,3
+15,puddle,type of small fish.,0.72,False,3
+16,ring,ring.,0.84,True,3
+17,salt shaker,salt shaker.,0.84,True,3
+18,shark,type of shark.,0.42,True,3
+19,puddle,type of fruit.,0.59,False,3

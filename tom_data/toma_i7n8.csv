@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,eraser,eraser.,0.99,True,8
+1,chalk,chalk.,0.93,True,8
+2,tea pot,tea pot.,0.89,True,8
+3,notepad,notepad.,0.61,True,8
+4,wallet,wallet.,0.91,True,8
+5,hanger,hanger.,0.81,True,8
+6,orange,orange.,0.47,True,8
+7,shawl,shawl.,0.7,True,8
+8,wristwatch,wristwatch.,0.95,True,8
+9,screw,screw.,0.94,True,8
+10,dolphin,dolphin.,0.64,True,8
+11,car,toy car.,0.79,True,8
+12,remote,remote.,0.98,True,8
+13,coffee mug,coffee mug.,0.96,True,8
+14,bottle of water,bottle of water.,0.74,True,8
+15,hammer,tool.,0.48,False,8
+16,clothes,traditional Mexican hat.,0.5,False,8
+17,toothbrush,toothbrush.,0.97,True,8
+18,pair of scissors,pair of scissors.,0.64,True,8
+19,grid paper,grid paper.,0.59,True,8

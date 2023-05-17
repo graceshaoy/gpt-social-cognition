@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,picture frame,picture frame.,0.77,True,4
+1,pair of handcuffs,pair of handcuffs.,0.51,True,4
+2,dagger,dagger.,0.61,True,4
+3,money,type of coin.,0.27,False,4
+4,camera,camera.,0.95,True,4
+5,plush rabbit,plush rabbit.,0.97,True,4
+6,lotion,type of tomato.,0.66,False,4
+7,umbrella,umbrella.,0.65,True,4
+8,word search,word search.,0.29,True,4
+9,book,book.,0.77,True,4
+10,box of baking soda,type of Mexican cheese.,0.78,False,4
+11,dove,dove.,0.9,True,4
+12,keyboard,keyboard.,0.59,True,4
+13,carrot,carrot.,0.67,True,4
+14,tomato,tomato.,0.95,True,4
+15,leg warmers,type of traditional Mexican hat.,0.69,False,4
+16,bracelet,bracelet.,0.83,True,4
+17,pair of scissors,pair of scissors.,0.86,True,4
+18,tooth pick,toothpick.,0.97,False,4
+19,boom box,boom box.,0.57,True,4

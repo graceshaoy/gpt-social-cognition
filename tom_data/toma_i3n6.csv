@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,sharpie,sharpie.,0.67,True,6
+1,cowboy hat,cowboy hat.,0.9,True,6
+2,cellphone,cellphone.,0.97,True,6
+3,canteen,canteen.,0.92,True,6
+4,necktie,necktie.,0.94,True,6
+5,ocarina,ocarina.,0.75,True,6
+6,fake flowers,fake flower.,0.69,False,6
+7,button,button.,0.82,True,6
+8,model car,model car.,0.98,True,6
+9,sun glasses,type of sunglasses.,0.44,False,6
+10,jar of jam,jar of jam.,0.87,True,6
+11,shovel,shovel.,0.69,True,6
+12,sidewalk,sidewalk.,0.43,True,6
+13,hair pin,hair pin.,0.89,True,6
+14,bananas,type of fruit.,0.79,False,6
+15,box of Q-tips,box of Q-tips.,0.52,True,6
+16,handful of change,coin.,0.87,False,6
+17,feather duster,feather duster.,0.98,True,6
+18,scotch tape,scotch tape.,0.42,True,6
+19,bottle of water,bottle of water.,0.54,True,6

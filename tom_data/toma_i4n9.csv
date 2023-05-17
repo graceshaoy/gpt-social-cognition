@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,candle,candle.,0.66,True,9
+1,bar of soap,bar of soap.,0.91,True,9
+2,needle,needle.,0.94,True,9
+3,hair brush,hair brush.,0.74,True,9
+4,wishbone,wishbone.,0.83,True,9
+5,wine glass,wine glass.,0.84,True,9
+6,carrot,carrot.,0.92,True,9
+7,drawer,drawer.,0.79,True,9
+8,cars,toy car.,0.6,False,9
+9,statuette,statuette.,0.77,True,9
+10,screw,screw.,0.94,True,9
+11,rubber band,rubber band.,0.98,True,9
+12,slipper,slipper.,0.66,True,9
+13,radio,radio.,0.93,True,9
+14,light bulb,light bulb.,0.85,True,9
+15,bowl,bowl.,0.44,True,9
+16,stop sign,stop sign.,0.91,True,9
+17,sticker book,sticker book.,0.91,True,9
+18,milk,type of milk.,0.79,True,9
+19,drill press,drill press.,0.8,True,9

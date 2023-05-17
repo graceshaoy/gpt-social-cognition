@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,CD,CD.,0.95,True,7
+1,food,type of food.,0.95,True,7
+2,Christmas ornament,Christmas ornament.,0.82,True,7
+3,screw,screw.,0.96,True,7
+4,helmet,helmet.,0.84,True,7
+5,rock,rock.,0.68,True,7
+6,pair of safety goggles,pair of safety goggles.,0.8,True,7
+7,ice cube,ice cube.,0.83,True,7
+8,fishing hook,fishing hook.,0.74,True,7
+9,pocketwatch,pocketwatch.,0.97,True,7
+10,rusty nail,rusty nail.,0.56,True,7
+11,tea cup,tea cup.,0.82,True,7
+12,tea pot,tea pot.,0.88,True,7
+13,vase,vase.,0.88,True,7
+14,video games,video game.,0.91,False,7
+15,hair clip,hair clip.,0.94,True,7
+16,baseball bat,baseball bat.,0.88,True,7
+17,pair of spectacles,pair of spectacles.,0.98,True,7
+18,ice cube,ice cube.,0.81,True,7
+19,acorn,acorn.,0.74,True,7

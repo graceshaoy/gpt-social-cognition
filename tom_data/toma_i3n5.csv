@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,shoes,type of shoe.,0.48,False,5
+1,beaded necklace,beaded necklace.,0.89,True,5
+2,pinecone,pinecone.,0.62,True,5
+3,computer,computer.,0.79,True,5
+4,plush dinosaur,plush dinosaur.,0.93,True,5
+5,bag of popcorn,type of food.,0.72,False,5
+6,toy robot,toy robot.,0.99,True,5
+7,lace,type of lace.,0.42,True,5
+8,rabbit,rabbit.,0.71,True,5
+9,harmonica,harmonica.,0.66,True,5
+10,box of Q-tips,type of vegetable.,0.55,False,5
+11,bottle of paint,bottle of paint.,0.35,True,5
+12,rolling pin,rolling pin.,0.95,True,5
+13,box of markers,box of markers.,0.73,True,5
+14,shopping bag,shopping bag.,0.47,True,5
+15,magnet,magnet.,0.78,True,5
+16,zebra,zebra.,0.42,True,5
+17,water,type of water bottle.,0.63,True,5
+18,wireless control,wireless control.,0.94,True,5
+19,magazine,magazine.,0.58,True,5

@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,empty tin can,tin can.,0.44,False,4
+1,carton of ice cream,type of ice cream.,0.77,False,4
+2,postage stamp,postage stamp.,0.98,True,4
+3,bottle of oil,bottle of oil.,0.79,True,4
+4,chocolate,type of chocolate.,0.75,True,4
+5,picture frame,picture frame.,0.25,True,4
+6,remote,remote.,0.98,True,4
+7,stop sign,stop sign.,0.95,True,4
+8,roll of duct tape,roll of duct tape.,0.96,True,4
+9,ice pick,type of tool.,0.55,False,4
+10,dagger,dagger.,0.56,True,4
+11,toothpaste,toothpaste.,0.87,True,4
+12,spool of thread,spool of thread.,0.85,True,4
+13,hair tie,hair tie.,0.97,True,4
+14,handheld game system,handheld game system.,0.97,True,4
+15,scarf,scarf.,0.95,True,4
+16,container of pudding,type of food.,0.5,False,4
+17,lemon,type of fruit.,0.5,False,4
+18,plush octopus,plush octopus.,0.93,True,4
+19,rhino,rhino.,0.74,True,4

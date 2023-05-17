@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,tree,type of tree.,0.57,True,4
+1,pencil,pencil.,0.99,True,4
+2,cellphone,cellphone.,0.83,True,4
+3,picture frame,picture frame.,0.31,True,4
+4,container of pudding,type of cheese.,0.69,False,4
+5,tree,type of tree.,0.52,True,4
+6,rubber band,rubber band.,0.98,True,4
+7,tweezers,tweezers.,0.56,True,4
+8,hanger,hanger.,0.94,True,4
+9,candy cane,candy cane.,0.85,True,4
+10,toe ring,toe ring.,0.88,True,4
+11,sun glasses,type of sunglasses.,0.42,False,4
+12,coffee pot,coffee pot.,0.94,True,4
+13,canteen,canteen.,0.7,True,4
+14,stockings,stocking.,0.48,False,4
+15,milk,type of cheese.,0.95,False,4
+16,pepper shaker,pepper shaker.,0.73,True,4
+17,candlestick,candlestick.,0.98,True,4
+18,lamp shade,lamp shade.,0.96,True,4
+19,keychain,keychain.,0.99,True,4

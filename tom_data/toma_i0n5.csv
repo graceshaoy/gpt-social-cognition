@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,toy car,toy car.,0.99,True,5
+1,couch,couch.,0.39,True,5
+2,remote,remote.,0.98,True,5
+3,drill press,drill press.,0.77,True,5
+4,clothes,traditional Mexican garment.,0.84,False,5
+5,CD,CD.,0.81,True,5
+6,trash bag,type of traditional Mexican clay pot.,0.44,False,5
+7,sandal,sandal.,0.85,True,5
+8,pair of scissors,pair of scissors.,0.64,True,5
+9,sketch pad,sketch pad.,0.84,True,5
+10,spool of wire,spool of wire.,0.98,True,5
+11,spool of string,spool of string.,0.84,True,5
+12,squirrel,type of squirrel.,0.5,True,5
+13,quartz crystal,quartz crystal.,0.9,True,5
+14,dog,type of small dog.,0.66,True,5
+15,sharpie,sharpie.,0.72,True,5
+16,tube of lip balm,tube of lip balm.,0.74,True,5
+17,bed,type of bed.,0.32,True,5
+18,spring,spring.,0.88,True,5
+19,lip gloss,lip gloss.,0.71,True,5

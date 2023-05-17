@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,piece of gum,piece of gum.,0.74,True,7
+1,screwdriver,screwdriver.,0.84,True,7
+2,sketch pad,sketch pad.,0.85,True,7
+3,wrench,wrench.,0.85,True,7
+4,catalogue,type of catalogue.,0.4,True,7
+5,thimble,thimble.,0.99,True,7
+6,flyswatter,flyswatter.,0.97,True,7
+7,laser pointer,laser pointer.,0.99,True,7
+8,food,type of food.,0.9,True,7
+9,pack of cards,pack of cards.,0.95,True,7
+10,toilet paper tube,toilet paper tube.,0.97,True,7
+11,flag,flag.,0.85,True,7
+12,tea cup,tea cup.,0.92,True,7
+13,handful of change,coin.,0.64,False,7
+14,bottle of glue,bottle of glue.,0.88,True,7
+15,plush cat,plush cat.,0.93,True,7
+16,bottle cap,bottle cap.,0.99,True,7
+17,pocketknife,pocketknife.,0.83,True,7
+18,bottle of soda,bottle of soda.,0.59,True,7
+19,garden spade,garden spade.,0.86,True,7

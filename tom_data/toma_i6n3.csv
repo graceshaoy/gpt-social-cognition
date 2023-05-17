@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,handbasket,handbasket.,0.96,True,3
+1,empty jar,jar.,0.43,False,3
+2,feather,feather.,0.81,True,3
+3,dove,dove.,0.83,True,3
+4,stick,stick used for playing a traditional game.,0.76,True,3
+5,fork,type of traditional Spanish musical instrument.,0.47,False,3
+6,socks,type of sock.,0.47,False,3
+7,tissue box,tissue box.,0.98,True,3
+8,domino set,domino set.,0.75,True,3
+9,roll of duct tape,roll of duct tape.,0.97,True,3
+10,clock,clock.,0.84,True,3
+11,football,football.,0.89,True,3
+12,small pouch,small pouch.,0.96,True,3
+13,table,table.,0.86,True,3
+14,sheep,type of sheep.,0.81,True,3
+15,can of peas,type of vegetable.,0.67,False,3
+16,scotch tape,Scotch tape.,0.38,False,3
+17,candle,candle.,0.92,True,3
+18,extension cord,extension cord.,0.6,True,3
+19,stop sign,stop sign.,0.91,True,3

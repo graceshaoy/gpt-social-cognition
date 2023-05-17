@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,teddies,teddy bear.,0.58,False,7
+1,beaded bracelet,beaded bracelet.,0.89,True,7
+2,roll of stickers,roll of stickers.,0.97,True,7
+3,bow,bow.,0.95,True,7
+4,sponge,sponge.,0.51,True,7
+5,postage stamp,postage stamp.,0.98,True,7
+6,drill press,drill press.,0.69,True,7
+7,game CD,game CD.,0.9,True,7
+8,teddies,teddy bear.,0.69,False,7
+9,cookie jar,cookie jar.,0.91,True,7
+10,plastic fork,plastic fork.,0.92,True,7
+11,grid paper,grid paper.,0.67,True,7
+12,lace,lace.,0.53,True,7
+13,roll of toilet paper,roll of toilet paper.,0.96,True,7
+14,stick of incense,stick of incense.,0.86,True,7
+15,stick of incense,stick of incense.,0.85,True,7
+16,tissue box,tissue box.,1.0,True,7
+17,children's book,children's book.,0.82,True,7
+18,novel,novel.,0.56,True,7
+19,camera,camera.,0.96,True,7

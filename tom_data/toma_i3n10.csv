@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,postage stamp,postage stamp.,0.94,True,10
+1,locket,locket.,0.96,True,10
+2,tennis racket,tennis racket.,0.87,True,10
+3,cup,cup.,0.92,True,10
+4,spool of string,spool of string.,0.78,True,10
+5,pants,type of pants.,0.44,True,10
+6,fork,fork.,0.36,True,10
+7,slipper,slipper.,0.71,True,10
+8,lion,lion.,0.81,True,10
+9,plush rabbit,plush rabbit.,0.8,True,10
+10,spatula,spatula.,0.92,True,10
+11,letter opener,letter opener.,0.92,True,10
+12,nail clippers,nail clippers.,0.64,True,10
+13,street lights,street light.,0.95,False,10
+14,miniature portrait,miniature portrait.,0.99,True,10
+15,watch,watch.,0.94,True,10
+16,necktie,necktie.,0.92,True,10
+17,lighter,lighter.,0.93,True,10
+18,lace,lace.,0.65,True,10
+19,rusty nail,rusty nail.,0.79,True,10

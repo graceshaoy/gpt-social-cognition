@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,piece of gum,type of fruit.,0.83,False,2
+1,outlet,type of electrical outlet.,0.61,True,2
+2,paintbrush,paintbrush.,0.54,True,2
+3,toothbrush,toothbrush.,0.99,True,2
+4,sailboat,sailboat.,0.39,True,2
+5,box of Q-tips,type of food.,0.56,False,2
+6,shirt button,small round fruit.,0.32,False,2
+7,quartz crystal,quartz crystal.,0.89,True,2
+8,box,type of box.,0.64,True,2
+9,handbasket,handbasket.,0.84,True,2
+10,wine glass,type of wine glass.,0.46,True,2
+11,purse/bag,purse/bag.,0.77,True,2
+12,shopping bag,type of fruit.,0.8,False,2
+13,check book,check book.,0.94,True,2
+14,money,type of coin.,0.45,False,2
+15,handheld game system,handheld game system.,0.98,True,2
+16,extension cord,type of tool.,0.46,False,2
+17,couch,type of furniture.,0.53,False,2
+18,bottle cap,bottle cap.,0.97,True,2
+19,candy wrapper,type of candy.,0.89,False,2

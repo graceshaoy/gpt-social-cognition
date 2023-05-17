@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,stop sign,stop sign.,0.93,True,7
+1,necktie,necktie.,0.97,True,7
+2,pair of dice,pair of dice.,0.93,True,7
+3,packet of seeds,packet of seeds.,0.49,True,7
+4,bow,bow.,0.93,True,7
+5,hair brush,hair brush.,0.89,True,7
+6,rock,rock.,0.86,True,7
+7,chocolate,type of chocolate.,0.71,True,7
+8,bar of soap,bar of soap.,0.94,True,7
+9,matchbook,matchbook.,0.95,True,7
+10,baseball,baseball.,0.79,True,7
+11,pencil,pencil.,0.99,True,7
+12,roll of masking tape,roll of masking tape.,0.98,True,7
+13,lip gloss,lip gloss.,0.91,True,7
+14,bottle cap,bottle cap.,0.96,True,7
+15,broccoli,type of vegetable.,0.59,False,7
+16,computer,computer.,0.93,True,7
+17,jar of jam,jar of jam.,0.89,True,7
+18,hair pin,hair pin.,0.9,True,7
+19,shark,type of shark.,0.33,True,7

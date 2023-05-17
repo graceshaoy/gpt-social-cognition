@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,salt shaker,salt shaker.,0.95,True,4
+1,extension cord,type of extension cord.,0.56,True,4
+2,dog,type of dog.,0.54,True,4
+3,wristwatch,wristwatch.,0.97,True,4
+4,nail,nail.,0.65,True,4
+5,canvas,canvas.,0.51,True,4
+6,leg warmers,leg warmer.,0.59,False,4
+7,radio,radio.,0.8,True,4
+8,drawer,drawer.,0.64,True,4
+9,glow stick,glow stick.,0.83,True,4
+10,book of matches,book of matches.,0.97,True,4
+11,dictionary,type of fruit native to South America.,0.73,False,4
+12,toy soldier,toy soldier.,0.98,True,4
+13,word search,type of Spanish omelette.,0.39,False,4
+14,rubber stamp,rubber stamp.,0.99,True,4
+15,bottle,bottle of wine.,0.5,True,4
+16,box of crayons,box of crayons.,0.77,True,4
+17,plush rabbit,plush rabbit.,0.92,True,4
+18,bed,type of bed.,0.46,True,4
+19,baseball bat,baseball bat.,0.85,True,4

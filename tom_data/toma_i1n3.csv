@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,pair of socks,"type of item that Ally was looking for, but it was not in the bucket",0.43,False,3
+1,bottle of glue,bottle of glue.,0.89,True,3
+2,marble,marble.,0.96,True,3
+3,carton of ice cream,type of fruit.,0.94,False,3
+4,bell,bell.,0.96,True,3
+5,toy robot,toy robot.,0.99,True,3
+6,spatula,spatula.,0.29,True,3
+7,bottle of honey,bottle of honey.,0.74,True,3
+8,box of baking soda,type of vegetable.,0.84,False,3
+9,wireless control,wireless control.,0.96,True,3
+10,handbasket,handbasket.,0.95,True,3
+11,can of chili,type of food.,0.88,False,3
+12,wrench,wrench.,0.79,True,3
+13,bottle of perfume,bottle of perfume.,0.81,True,3
+14,piece of sand paper,type of tool used for sanding wood.,0.44,False,3
+15,spool of thread,spool of thread.,0.98,True,3
+16,mp3 player,mp3 player.,0.84,True,3
+17,toy robot,toy robot.,0.99,True,3
+18,belt,belt.,0.96,True,3
+19,milk,type of cheese.,0.96,False,3

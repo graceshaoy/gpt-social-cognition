@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,candy cane,candy cane.,0.83,True,9
+1,feather duster,feather duster.,0.96,True,9
+2,light,light.,0.72,True,9
+3,rat,rat.,0.41,True,9
+4,mirror,mirror.,0.9,True,9
+5,giraffe,giraffe.,0.94,True,9
+6,cell phone,cell phone.,0.88,True,9
+7,rubber duck,rubber duck.,0.96,True,9
+8,spool of wire,spool of wire.,0.96,True,9
+9,turtle,turtle.,0.71,True,9
+10,rubber duck,rubber duck.,0.97,True,9
+11,small pouch,small pouch.,0.79,True,9
+12,keyboard,keyboard.,0.51,True,9
+13,handheld game system,handheld game system.,0.98,True,9
+14,card,type of card game.,0.27,True,9
+15,washing machine,washing machine.,0.93,True,9
+16,can of chili,can of chili.,0.61,True,9
+17,white out,white out.,0.88,True,9
+18,wireless control,wireless control.,0.93,True,9
+19,candle,tomato.,0.9,False,9

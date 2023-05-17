@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,handbasket,handbasket.,0.86,True,2
+1,tissue box,tissue box.,0.97,True,2
+2,card,card game.,0.7,True,2
+3,multitool,multitool.,0.89,True,2
+4,spice bottle,type of spice.,0.48,False,2
+5,empty jar,jar.,0.62,False,2
+6,window,window.,0.84,True,2
+7,plush rabbit,plush toy.,0.9,False,2
+8,notepad,notepad.,0.91,True,2
+9,carrots,type of vegetable.,0.77,False,2
+10,pinecone,pinecone.,0.79,True,2
+11,stick,stick used for playing a traditional game.,0.38,True,2
+12,glass,glass.,0.74,True,2
+13,book of jokes,book of jokes.,0.98,True,2
+14,money,type of coin.,0.58,False,2
+15,box of crayons,box of crayons.,0.67,True,2
+16,lamp,lamp.,0.96,True,2
+17,glass,glass.,0.76,True,2
+18,feather,feather.,0.47,True,2
+19,magazine,type of magazine.,0.87,True,2

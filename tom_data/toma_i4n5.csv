@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,quilt,quilt.,0.9,True,5
+1,music CD,music CD.,0.87,True,5
+2,rubber duck,rubber duck.,0.91,True,5
+3,tea pot,tea pot.,0.87,True,5
+4,shoe lace,shoe lace.,0.36,True,5
+5,pair of scissors,pair of scissors.,0.83,True,5
+6,eraser,eraser.,0.98,True,5
+7,plastic fork,plastic fork.,0.82,True,5
+8,picture frame,picture frame.,0.26,True,5
+9,container of pudding,container of pudding.,0.69,True,5
+10,pencil holder,pencil holder.,0.99,True,5
+11,postage stamp,postage stamp.,0.98,True,5
+12,miniature portrait,miniature portrait.,0.98,True,5
+13,picture frame,picture frame.,0.69,True,5
+14,balloon,balloon.,0.79,True,5
+15,few batteries,type of Spanish cheese.,0.55,False,5
+16,spice bottle,spice bottle.,0.64,True,5
+17,safety pin,safety pin.,0.94,True,5
+18,cowboy hat,cowboy hat.,0.78,True,5
+19,snail shell,snail shell.,0.93,True,5

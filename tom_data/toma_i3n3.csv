@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,car,toy car.,0.93,True,3
+1,apple,type of fruit.,0.91,False,3
+2,whip,whip.,0.92,True,3
+3,radio,radio.,0.91,True,3
+4,snowglobe,snowglobe.,1.0,True,3
+5,car,toy car.,0.95,True,3
+6,box of markers,box of markers.,0.84,True,3
+7,pair of scissors,type of scissors used for cutting fabric.,0.26,False,3
+8,children's book,children's book.,0.89,True,3
+9,bangle bracelet,bangle bracelet.,0.84,True,3
+10,rusty nail,type of Spanish coin.,0.4,False,3
+11,pen,pen.,0.89,True,3
+12,thread,thread.,0.4,True,3
+13,pair of sunglasses,pair of sunglasses.,0.86,True,3
+14,spring,spring.,0.79,True,3
+15,cat,cat.,0.38,True,3
+16,wishbone,wishbone.,0.69,True,3
+17,plush bear,plush bear.,0.71,True,3
+18,tv,television.,0.83,False,3
+19,class ring,class ring.,0.76,True,3

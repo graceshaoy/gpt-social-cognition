@@ -1,0 +1,201 @@
+,Toma,Completion,Probability,Match,Tries
+0,rhino,type of animal.,0.75,False,1
+1,television,television.,0.55,True,1
+2,whip,type of whip.,0.54,True,1
+3,pair of knitting needles,type of knitting needle.,0.6,False,1
+4,keys,key.,0.46,False,1
+5,pop can,type of soda.,0.77,False,1
+6,pair of water goggles,type of fish.,0.85,False,1
+7,comb,comb.,0.74,True,1
+8,radio,type of radio.,0.5,True,1
+9,pair of knitting needles,type of knitting needle.,0.59,False,1
+10,hair tie,hair tie.,0.78,True,1
+11,candy cane,type of candy.,0.74,False,1
+12,feather duster,mythical creature that is said to bring good luck.,0.37,False,1
+13,milk,type of cheese.,0.97,False,1
+14,map,type of treasure map.,0.56,True,1
+15,bandana,type of scarf or bandana.,0.38,True,1
+16,wedding ring,traditional Spanish wedding ring.,0.67,True,1
+17,bananas,type of fruit.,0.92,False,1
+18,pair of socks,type of sock.,0.58,False,1
+19,can of whipped cream,type of cheese.,0.94,False,1
+20,piece of gum,type of fruit.,0.83,False,2
+21,outlet,type of electrical outlet.,0.61,True,2
+22,paintbrush,paintbrush.,0.54,True,2
+23,toothbrush,toothbrush.,0.99,True,2
+24,sailboat,sailboat.,0.39,True,2
+25,box of Q-tips,type of food.,0.56,False,2
+26,shirt button,small round fruit.,0.32,False,2
+27,quartz crystal,quartz crystal.,0.89,True,2
+28,box,type of box.,0.64,True,2
+29,handbasket,handbasket.,0.84,True,2
+30,wine glass,type of wine glass.,0.46,True,2
+31,purse/bag,purse/bag.,0.77,True,2
+32,shopping bag,type of fruit.,0.8,False,2
+33,check book,check book.,0.94,True,2
+34,money,type of coin.,0.45,False,2
+35,handheld game system,handheld game system.,0.98,True,2
+36,extension cord,type of tool.,0.46,False,2
+37,couch,type of furniture.,0.53,False,2
+38,bottle cap,bottle cap.,0.97,True,2
+39,candy wrapper,type of candy.,0.89,False,2
+40,jar of peanut butter,jar of peanut butter.,0.91,True,3
+41,purse,purse.,0.9,True,3
+42,plastic fork,plastic fork.,0.92,True,3
+43,sword,sword.,0.71,True,3
+44,locket,locket.,0.99,True,3
+45,brush,brush.,0.63,True,3
+46,ball of yarn,ball of yarn.,0.74,True,3
+47,squirrel,squirrel.,0.54,True,3
+48,wristwatch,wristwatch.,0.97,True,3
+49,spoon,spoon.,0.93,True,3
+50,lemon,type of citrus fruit.,0.81,False,3
+51,pair of sunglasses,pair of sunglasses.,0.49,True,3
+52,balloon,balloon.,0.77,True,3
+53,apple,type of fruit.,0.88,False,3
+54,box of markers,type of marker.,0.33,False,3
+55,packet of seeds,type of seed.,0.71,False,3
+56,hair pin,hair pin.,0.96,True,3
+57,word search,type of Spanish omelette.,0.67,False,3
+58,book,book.,0.82,True,3
+59,whip,whip.,0.89,True,3
+60,empty tin can,tin can.,0.44,False,4
+61,carton of ice cream,type of ice cream.,0.77,False,4
+62,postage stamp,postage stamp.,0.98,True,4
+63,bottle of oil,bottle of oil.,0.79,True,4
+64,chocolate,type of chocolate.,0.75,True,4
+65,picture frame,picture frame.,0.25,True,4
+66,remote,remote.,0.98,True,4
+67,stop sign,stop sign.,0.95,True,4
+68,roll of duct tape,roll of duct tape.,0.96,True,4
+69,ice pick,type of tool.,0.55,False,4
+70,dagger,dagger.,0.56,True,4
+71,toothpaste,toothpaste.,0.87,True,4
+72,spool of thread,spool of thread.,0.85,True,4
+73,hair tie,hair tie.,0.97,True,4
+74,handheld game system,handheld game system.,0.97,True,4
+75,scarf,scarf.,0.95,True,4
+76,container of pudding,type of food.,0.5,False,4
+77,lemon,type of fruit.,0.5,False,4
+78,plush octopus,plush octopus.,0.93,True,4
+79,rhino,rhino.,0.74,True,4
+80,toy car,toy car.,0.99,True,5
+81,couch,couch.,0.39,True,5
+82,remote,remote.,0.98,True,5
+83,drill press,drill press.,0.77,True,5
+84,clothes,traditional Mexican garment.,0.84,False,5
+85,CD,CD.,0.81,True,5
+86,trash bag,type of traditional Mexican clay pot.,0.44,False,5
+87,sandal,sandal.,0.85,True,5
+88,pair of scissors,pair of scissors.,0.64,True,5
+89,sketch pad,sketch pad.,0.84,True,5
+90,spool of wire,spool of wire.,0.98,True,5
+91,spool of string,spool of string.,0.84,True,5
+92,squirrel,type of squirrel.,0.5,True,5
+93,quartz crystal,quartz crystal.,0.9,True,5
+94,dog,type of small dog.,0.66,True,5
+95,sharpie,sharpie.,0.72,True,5
+96,tube of lip balm,tube of lip balm.,0.74,True,5
+97,bed,type of bed.,0.32,True,5
+98,spring,spring.,0.88,True,5
+99,lip gloss,lip gloss.,0.71,True,5
+100,plush cat,plush toy.,0.93,False,6
+101,spool of ribbon,spool of ribbon.,0.99,True,6
+102,speakers,type of speaker.,0.36,False,6
+103,socks,type of sock.,0.38,False,6
+104,roll of toilet paper,roll of toilet paper.,0.97,True,6
+105,feather,feather.,0.95,True,6
+106,check book,check book.,0.97,True,6
+107,sticky note,sticky note.,0.99,True,6
+108,statuette,statuette.,0.87,True,6
+109,dagger,dagger.,0.63,True,6
+110,leg warmers,type of leg warmer.,0.43,False,6
+111,chalk,chalk.,0.91,True,6
+112,table,table.,0.71,True,6
+113,book of jokes,book of jokes.,0.96,True,6
+114,miniature portrait,miniature portrait.,0.99,True,6
+115,purse/bag,purse/bag.,0.69,True,6
+116,rusty nail,rusty nail.,0.29,True,6
+117,chain,chain.,0.75,True,6
+118,tv,television.,0.79,False,6
+119,bow tie,bow tie.,0.96,True,6
+120,laser pointer,laser pointer.,0.97,True,7
+121,hanger,hanger.,0.83,True,7
+122,leg warmers,leg warmer.,0.4,False,7
+123,photo album,photo album.,0.87,True,7
+124,rug,rug.,0.55,True,7
+125,beef,type of beef.,0.59,True,7
+126,book of matches,book of matches.,0.92,True,7
+127,bookmark,bookmark.,0.9,True,7
+128,rubber stamp,rubber stamp.,0.99,True,7
+129,statuette,statuette.,0.75,True,7
+130,empty jar,empty jar.,0.6,True,7
+131,roll of toilet paper,roll of toilet paper.,0.94,True,7
+132,twister,twister.,0.65,True,7
+133,broccoli,vegetable.,0.57,False,7
+134,pen,pen.,0.95,True,7
+135,bottle of paint,bottle of paint.,0.54,True,7
+136,dagger,dagger.,0.47,True,7
+137,bottle of water,bottle of water.,0.57,True,7
+138,tube of lip balm,tube of lip balm.,0.67,True,7
+139,feather duster,feather duster.,0.95,True,7
+140,basketball,basketball.,0.74,True,8
+141,radio,radio.,0.93,True,8
+142,watch,watch.,0.96,True,8
+143,plush dog,plush toy.,0.83,False,8
+144,pocketknife,pocketknife.,0.87,True,8
+145,rat,rat.,0.7,True,8
+146,chenille stick,chenille stick.,0.91,True,8
+147,spool of string,spool of string.,0.95,True,8
+148,scotch tape,Scotch tape.,0.43,False,8
+149,chalk,chalk.,0.9,True,8
+150,ring,ring.,0.82,True,8
+151,bottle of soda,bottle of soda.,0.6,True,8
+152,pail,pail.,0.53,True,8
+153,toilet,toilet.,0.93,True,8
+154,cookie jar,cookie jar.,0.89,True,8
+155,bracelet,bracelet.,0.95,True,8
+156,perfume,perfume.,0.43,True,8
+157,ice cream stick,ice cream stick.,0.83,True,8
+158,crow,crow.,0.53,True,8
+159,drawer,drawer.,0.79,True,8
+160,baseball hat,baseball hat.,0.97,True,9
+161,martini glass,martini glass.,0.9,True,9
+162,key chain,key chain.,0.97,True,9
+163,needle,needle.,0.94,True,9
+164,straw,straw.,0.68,True,9
+165,hamster,hamster.,0.54,True,9
+166,food,type of food.,0.9,True,9
+167,clay pot,clay pot.,0.55,True,9
+168,bottle,bottle.,0.72,True,9
+169,box of baking soda,type of tomato.,0.71,False,9
+170,word search,type of Spanish omelette.,0.66,False,9
+171,pants,pair of pants.,0.44,True,9
+172,class ring,class ring.,0.93,True,9
+173,domino set,domino set.,0.74,True,9
+174,baseball hat,baseball hat.,0.81,True,9
+175,hamster,hamster.,0.7,True,9
+176,toothpaste,toothpaste.,0.92,True,9
+177,cow,cow.,0.94,True,9
+178,bottle of lotion,bottle of lotion.,0.78,True,9
+179,white out,white out.,0.79,True,9
+180,rug,rug.,0.76,True,10
+181,wristwatch,wristwatch.,0.96,True,10
+182,fridge,refrigerator.,0.58,False,10
+183,martini glass,martini glass.,0.87,True,10
+184,shopping bag,shopping bag.,0.9,True,10
+185,hanger,hanger.,0.85,True,10
+186,card,card game.,0.26,True,10
+187,lip gloss,lip gloss.,0.8,True,10
+188,safety pin,safety pin.,0.95,True,10
+189,light bulb,light bulb.,0.77,True,10
+190,lemon,lemon.,0.8,True,10
+191,paint brush,paint brush.,0.9,True,10
+192,crowbar,crowbar.,0.79,True,10
+193,can of whipped cream,can of whipped cream.,0.76,True,10
+194,sheet of paper,type of Spanish dance.,0.4,False,10
+195,ice cream stick,ice cream stick.,0.63,True,10
+196,necktie,necktie.,0.97,True,10
+197,dagger,dagger.,0.53,True,10
+198,rabbit,rabbit.,0.83,True,10
+199,bandana,bandana.,0.83,True,10

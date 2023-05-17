@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,basketball,basketball.,0.74,True,8
+1,radio,radio.,0.93,True,8
+2,watch,watch.,0.96,True,8
+3,plush dog,plush toy.,0.83,False,8
+4,pocketknife,pocketknife.,0.87,True,8
+5,rat,rat.,0.7,True,8
+6,chenille stick,chenille stick.,0.91,True,8
+7,spool of string,spool of string.,0.95,True,8
+8,scotch tape,Scotch tape.,0.43,False,8
+9,chalk,chalk.,0.9,True,8
+10,ring,ring.,0.82,True,8
+11,bottle of soda,bottle of soda.,0.6,True,8
+12,pail,pail.,0.53,True,8
+13,toilet,toilet.,0.93,True,8
+14,cookie jar,cookie jar.,0.89,True,8
+15,bracelet,bracelet.,0.95,True,8
+16,perfume,perfume.,0.43,True,8
+17,ice cream stick,ice cream stick.,0.83,True,8
+18,crow,crow.,0.53,True,8
+19,drawer,drawer.,0.79,True,8

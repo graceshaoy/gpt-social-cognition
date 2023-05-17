@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,multitool,multitool.,0.81,True,8
+1,bag,bag.,0.68,True,8
+2,pair of knitting needles,pair of knitting needles.,0.68,True,8
+3,bottle of pills,bottle of pills.,0.86,True,8
+4,music CD,music CD.,0.89,True,8
+5,rusty nail,type of Spanish coin.,0.27,False,8
+6,clay pot,clay pot.,0.93,True,8
+7,clothes,type of clothing.,0.54,False,8
+8,lip gloss,lip gloss.,0.82,True,8
+9,roll of toilet paper,roll of toilet paper.,0.97,True,8
+10,box of tissues,box of tissues.,0.74,True,8
+11,ice pick,ice pick.,0.87,True,8
+12,fridge,refrigerator.,0.64,False,8
+13,rhino,rhino.,0.88,True,8
+14,mirror,mirror.,0.85,True,8
+15,keychain,keychain.,0.98,True,8
+16,cement stone,cement stone.,0.98,True,8
+17,stockings,stocking.,0.83,False,8
+18,bow tie,bow tie.,0.96,True,8
+19,tennis ball,tennis ball.,0.92,True,8

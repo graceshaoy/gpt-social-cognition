@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,fish,fish.,0.52,True,10
+1,harmonica,harmonica.,0.95,True,10
+2,glow stick,glow stick.,0.87,True,10
+3,box,box.,0.27,True,10
+4,fake flowers,fake flower.,0.81,False,10
+5,magazine,magazine.,0.85,True,10
+6,light,flashlight.,0.3,True,10
+7,bottle of glue,tomato.,0.9,False,10
+8,spool of ribbon,spool of ribbon.,0.96,True,10
+9,eraser,eraser.,0.92,True,10
+10,game cartridge,game cartridge.,0.92,True,10
+11,rabbit,rabbit.,0.78,True,10
+12,matchbook,matchbook.,0.94,True,10
+13,scallop shell,scallop shell.,0.72,True,10
+14,washing machine,washing machine.,0.97,True,10
+15,stick,stick.,0.8,True,10
+16,spice bottle,spice bottle.,0.51,True,10
+17,dove,dove.,0.79,True,10
+18,multitool,multitool.,0.82,True,10
+19,light bulb,light bulb.,0.88,True,10

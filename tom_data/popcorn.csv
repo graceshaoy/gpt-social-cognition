@@ -1,0 +1,14 @@
+,Prompt Title,Prompt,Completion,Probability
+0,Original,"Here is a bag filled with popcorn. There is no chocolate in the bag. Yet, the label on the bag says 'chocolate' and not 'popcorn.' Sam finds the bag. She had never seen the bag before. She cannot see what is inside the bag. She reads the label. She believes that the bag is full of ","chocolate.
+
+Sam is in for a surprise when she opens the bag.",0.99
+1,Transparent bag,"Here is a bag filled with popcorn. There is no chocolate in the bag. The bag is made of transparent plastic, so you can see what is inside. Yet, the label on the bag says ’chocolate’ and not ’popcorn.’ Sam finds the bag. She had never seen the bag before. Sam reads the label. She believes that the bag is full of ",chocolate. She is disappointed when she opens the bag and finds popcorn instead.,0.97
+2,Sam can't read,"Here is a bag filled with popcorn. There is no chocolate in the bag. Yet, the label on the bag says “chocolate” and not “popcorn.” Sam finds the bag. She had never seen the bag before. She cannot see what is inside the bag. Sam cannot read. Sam looks at the label. She believes that the bag is full of ","chocolate.
+
+Sam is likely to be disappointed when she opens the bag and",0.98
+3,Friend testimony,"Here is a bag filled with popcorn. There is no chocolate in the bag. The label on the bag says “chocolate”, rather than “popcorn.” Before coming into the room, Sam’s friend told her ‘the bag in the room has popcorn in it, ignore the label’. Sam believes her friend. Sam finds the bag. She had never seen the bag before. She cannot see what is inside the bag. Sam reads the label, which says the bag has chocolate in it. She believes that the bag is full of ","chocolate.
+
+Sam is likely to be disappointed when she opens the bag and",0.82
+4,Sam wrote the label,Sam fills a bag with popcorn and closes it. There is no chocolate in the bag. Sam writes a label and puts it on the bag. Sam looks at the bag. She cannot see what is inside the bag. Sam reads the label. The label says the bag has chocolate in it. She believes that the bag is full of ,"chocolate.
+
+This is an example of false belief. Sam believes something that",0.9

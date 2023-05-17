@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,laser pointer,laser pointer.,0.97,True,7
+1,hanger,hanger.,0.83,True,7
+2,leg warmers,leg warmer.,0.4,False,7
+3,photo album,photo album.,0.87,True,7
+4,rug,rug.,0.55,True,7
+5,beef,type of beef.,0.59,True,7
+6,book of matches,book of matches.,0.92,True,7
+7,bookmark,bookmark.,0.9,True,7
+8,rubber stamp,rubber stamp.,0.99,True,7
+9,statuette,statuette.,0.75,True,7
+10,empty jar,empty jar.,0.6,True,7
+11,roll of toilet paper,roll of toilet paper.,0.94,True,7
+12,twister,twister.,0.65,True,7
+13,broccoli,vegetable.,0.57,False,7
+14,pen,pen.,0.95,True,7
+15,bottle of paint,bottle of paint.,0.54,True,7
+16,dagger,dagger.,0.47,True,7
+17,bottle of water,bottle of water.,0.57,True,7
+18,tube of lip balm,tube of lip balm.,0.67,True,7
+19,feather duster,feather duster.,0.95,True,7

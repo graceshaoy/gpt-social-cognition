@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,beaded necklace,beaded necklace.,0.87,True,2
+1,cookie jar,cookie jar.,0.91,True,2
+2,bangle bracelet,bangle bracelet.,0.91,True,2
+3,turtle,turtle.,0.67,True,2
+4,sharpie,marker or pen.,0.62,False,2
+5,pair of earrings,type of jewelry.,0.46,False,2
+6,whale,type of toy.,0.38,False,2
+7,pasta strainer,pasta strainer.,0.78,True,2
+8,box of chalk,box of chalk.,0.77,True,2
+9,bottle of glue,type of glue.,0.56,False,2
+10,stockings,stocking.,0.77,False,2
+11,handful of change,coin.,0.78,False,2
+12,fishing hook,type of fishing hook.,0.49,True,2
+13,feather,feather.,0.59,True,2
+14,letter opener,letter opener.,0.85,True,2
+15,button,button.,0.73,True,2
+16,toy top,toy top.,0.99,True,2
+17,key,key.,0.99,True,2
+18,glow stick,glow stick.,0.7,True,2
+19,baseball hat,baseball hat.,0.82,True,2

@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,ipod,type of electronic device.,0.46,False,2
+1,game CD,game CD.,0.87,True,2
+2,purse/bag,purse/bag.,0.84,True,2
+3,box of crayons,box of crayons.,0.83,True,2
+4,shirt,type of shirt.,0.46,True,2
+5,bottle,bottle of wine.,0.5,True,2
+6,lace,type of lace.,0.55,True,2
+7,turtle,turtle.,0.73,True,2
+8,bottle,bottle.,0.61,True,2
+9,balloon,balloon.,0.76,True,2
+10,flashlight,flashlight.,0.96,True,2
+11,canvas,canvas.,0.79,True,2
+12,acorn,type of nut.,0.57,False,2
+13,bottle of water,type of tomato.,0.85,False,2
+14,table,table.,0.56,True,2
+15,roll of stickers,roll of stickers.,0.71,True,2
+16,bottle of glue,type of tool.,0.38,False,2
+17,canvas,canvas.,0.41,True,2
+18,toe ring,toe ring.,0.72,True,2
+19,spool of string,spool of string.,0.97,True,2

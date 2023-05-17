@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,button,button.,0.89,True,3
+1,shampoo,tomato.,0.89,False,3
+2,bottle of glue,type of tomato.,0.66,False,3
+3,zipper,zipper.,0.92,True,3
+4,package of crisp and crunchy edibles,package of crisp and crunchy edibles.,0.63,True,3
+5,ladle,ladle.,0.91,True,3
+6,snail shell,snail shell.,0.94,True,3
+7,small pouch,small pouch.,0.92,True,3
+8,zipper,zipper.,0.95,True,3
+9,rubber duck,rubber duck.,0.99,True,3
+10,magnifying glass,magnifying glass.,0.93,True,3
+11,desk,desk.,0.65,True,3
+12,ipod charger,ipod charger.,0.45,True,3
+13,rubber stamp,rubber stamp.,1.0,True,3
+14,rope,rope.,0.98,True,3
+15,bag of popcorn,type of snack food.,0.86,False,3
+16,eraser,eraser.,1.0,True,3
+17,slipper,type of shoe.,0.47,False,3
+18,safety pin,safety pin.,0.96,True,3
+19,leg warmers,type of clothing.,0.73,False,3

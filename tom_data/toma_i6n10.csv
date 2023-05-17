@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,spool of wire,spool of wire.,0.9,True,10
+1,trash bag,trash bag.,0.81,True,10
+2,bottle,bottle of wine.,0.72,True,10
+3,pair of sunglasses,pair of sunglasses.,0.96,True,10
+4,ice cream stick,ice cream stick.,0.69,True,10
+5,tree,tree.,0.72,True,10
+6,feather,feather.,0.93,True,10
+7,plush dinosaur,plush dinosaur.,0.91,True,10
+8,hammer,hammer.,0.86,True,10
+9,lamp shade,lamp shade.,0.98,True,10
+10,mp3 player,mp3 player.,0.83,True,10
+11,shoe lace,shoe lace.,0.8,True,10
+12,pair of rubber gloves,pair of rubber gloves.,0.42,True,10
+13,laser pointer,laser pointer.,0.98,True,10
+14,rhino,rhino.,0.92,True,10
+15,sticky note,sticky note.,0.99,True,10
+16,tree,tree.,0.55,True,10
+17,cork,cork.,0.91,True,10
+18,egg timer,egg timer.,0.93,True,10
+19,toy car,toy car.,0.98,True,10

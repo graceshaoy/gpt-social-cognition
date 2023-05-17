@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,sponge,sponge.,0.8,True,9
+1,bandana,bandana.,0.54,True,9
+2,pillow,pillow.,0.91,True,9
+3,conditioner,type of conditioner.,0.52,True,9
+4,sponge,sponge.,0.66,True,9
+5,pair of spectacles,pair of spectacles.,0.97,True,9
+6,vase,vase.,0.94,True,9
+7,flag,flag.,0.92,True,9
+8,table,table.,0.83,True,9
+9,sheep,sheep.,0.63,True,9
+10,hamster,hamster.,0.68,True,9
+11,book of jokes,book of jokes.,0.9,True,9
+12,wristwatch,wristwatch.,0.96,True,9
+13,canvas,painting.,0.33,False,9
+14,game CD,game CD.,0.87,True,9
+15,bouquet of flowers,bouquet of flowers.,0.81,True,9
+16,buckle,buckle.,0.8,True,9
+17,model car,model car.,0.98,True,9
+18,orange,type of orange.,0.72,True,9
+19,bag of popcorn,type of Spanish cheese.,0.7,False,9

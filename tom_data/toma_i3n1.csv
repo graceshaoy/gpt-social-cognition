@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,trucks,toy truck.,0.46,False,1
+1,eraser,type of eraser.,0.41,True,1
+2,purse/bag,type of purse or bag.,0.43,False,1
+3,washing machine,type of washing machine.,0.62,True,1
+4,plush cat,plush toy.,0.89,False,1
+5,crow,type of bird.,0.76,False,1
+6,package of crisp and crunchy edibles,type of snack food.,0.89,False,1
+7,small pouch,type of small pouch.,0.45,True,1
+8,CD,type of music.,0.65,False,1
+9,rat,type of rodent.,0.84,False,1
+10,carton of ice cream,type of cheese.,0.89,False,1
+11,necktie,type of necktie.,0.4,True,1
+12,piece of sand paper,type of tool used for sanding wood.,0.73,False,1
+13,credit card,type of credit card.,0.7,True,1
+14,whale,type of fish.,0.89,False,1
+15,grocery list,type of vegetable.,0.85,False,1
+16,video games,video game.,0.58,False,1
+17,container of pudding,type of pudding.,0.96,False,1
+18,dagger,type of dagger.,0.76,True,1
+19,chapter book,type of book.,0.56,False,1

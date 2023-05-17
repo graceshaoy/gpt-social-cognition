@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,baseball hat,baseball hat.,0.97,True,9
+1,martini glass,martini glass.,0.9,True,9
+2,key chain,key chain.,0.97,True,9
+3,needle,needle.,0.94,True,9
+4,straw,straw.,0.68,True,9
+5,hamster,hamster.,0.54,True,9
+6,food,type of food.,0.9,True,9
+7,clay pot,clay pot.,0.55,True,9
+8,bottle,bottle.,0.72,True,9
+9,box of baking soda,type of tomato.,0.71,False,9
+10,word search,type of Spanish omelette.,0.66,False,9
+11,pants,pair of pants.,0.44,True,9
+12,class ring,class ring.,0.93,True,9
+13,domino set,domino set.,0.74,True,9
+14,baseball hat,baseball hat.,0.81,True,9
+15,hamster,hamster.,0.7,True,9
+16,toothpaste,toothpaste.,0.92,True,9
+17,cow,cow.,0.94,True,9
+18,bottle of lotion,bottle of lotion.,0.78,True,9
+19,white out,white out.,0.79,True,9

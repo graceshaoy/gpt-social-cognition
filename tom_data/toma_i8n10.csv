@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,salt shaker,salt shaker.,0.95,True,10
+1,panda,stuffed animal.,0.45,False,10
+2,plate,plate.,0.91,True,10
+3,baseball hat,baseball hat.,0.87,True,10
+4,egg beater,egg beater.,0.58,True,10
+5,boom box,boom box.,0.54,True,10
+6,egg beater,egg beater.,0.26,True,10
+7,door,door.,0.79,True,10
+8,mouse pad,mouse pad.,0.94,True,10
+9,white out,white out.,0.89,True,10
+10,bottle of syrup,bottle of syrup.,0.79,True,10
+11,pair of earrings,pair of earrings.,0.93,True,10
+12,spice bottle,spice bottle.,0.82,True,10
+13,pocketwatch,pocketwatch.,0.91,True,10
+14,wristwatch,wristwatch.,0.92,True,10
+15,necktie,necktie.,0.87,True,10
+16,matchbook,matchbook.,0.96,True,10
+17,model car,model car.,0.94,True,10
+18,tennis ball,tennis ball.,0.84,True,10
+19,bananas,type of fruit.,0.78,False,10

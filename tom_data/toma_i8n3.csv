@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,cat,type of cat.,0.63,True,3
+1,pair of sunglasses,pair of sunglasses.,0.85,True,3
+2,sailboat,sailboat.,0.91,True,3
+3,bouquet of flowers,type of flower.,0.36,False,3
+4,hanger,hanger.,0.65,True,3
+5,trucks,toy truck.,0.69,False,3
+6,cars,toy car.,0.85,False,3
+7,pasta strainer,pasta strainer.,0.85,True,3
+8,magazine,type of magazine.,0.52,True,3
+9,shampoo,type of fruit.,0.88,False,3
+10,squirt gun,squirt gun.,0.73,True,3
+11,pair of water goggles,type of fish.,0.58,False,3
+12,tissue box,tissue box.,0.91,True,3
+13,extension cord,type of vegetable.,0.59,False,3
+14,conditioner,type of bell.,0.57,False,3
+15,pair of water goggles,type of fish.,0.77,False,3
+16,desk,desk.,0.85,True,3
+17,candy wrapper,type of candy.,0.65,False,3
+18,wedding ring,wedding ring.,0.56,True,3
+19,catalogue,catalogue of items.,0.57,True,3

@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,rug,rug.,0.76,True,10
+1,wristwatch,wristwatch.,0.96,True,10
+2,fridge,refrigerator.,0.58,False,10
+3,martini glass,martini glass.,0.87,True,10
+4,shopping bag,shopping bag.,0.9,True,10
+5,hanger,hanger.,0.85,True,10
+6,card,card game.,0.26,True,10
+7,lip gloss,lip gloss.,0.8,True,10
+8,safety pin,safety pin.,0.95,True,10
+9,light bulb,light bulb.,0.77,True,10
+10,lemon,lemon.,0.8,True,10
+11,paint brush,paint brush.,0.9,True,10
+12,crowbar,crowbar.,0.79,True,10
+13,can of whipped cream,can of whipped cream.,0.76,True,10
+14,sheet of paper,type of Spanish dance.,0.4,False,10
+15,ice cream stick,ice cream stick.,0.63,True,10
+16,necktie,necktie.,0.97,True,10
+17,dagger,dagger.,0.53,True,10
+18,rabbit,rabbit.,0.83,True,10
+19,bandana,bandana.,0.83,True,10

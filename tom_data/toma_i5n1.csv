@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,sticker book,sticker book.,0.92,True,1
+1,mop,type of cleaning tool.,0.51,False,1
+2,spoon,type of spoon.,0.54,True,1
+3,pair of water goggles,type of swimming goggles.,0.85,False,1
+4,outlet,type of outlet.,0.89,True,1
+5,zebra,type of animal.,0.86,False,1
+6,pinecone,type of pinecone.,0.63,True,1
+7,toilet,type of toilet.,0.56,True,1
+8,ocarina,musical instrument.,0.43,False,1
+9,stick of incense,type of incense.,0.52,False,1
+10,pair of safety goggles,tool used for cutting and shaping wood.,0.4,False,1
+11,tube of lip balm,type of lip balm.,0.79,False,1
+12,shirt button,type of button.,0.32,False,1
+13,shoes,type of shoe.,0.76,False,1
+14,rolling pin,type of Italian cheese.,0.66,False,1
+15,wine glass,type of wine glass.,0.83,True,1
+16,bottle of syrup,type of syrup.,0.9,False,1
+17,butter knife,type of knife.,0.84,False,1
+18,check book,check book.,0.79,True,1
+19,spatula,type of kitchen utensil.,0.5,False,1

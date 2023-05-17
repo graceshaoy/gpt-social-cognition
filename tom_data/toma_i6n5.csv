@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,ipod,iphone.,0.55,False,5
+1,class ring,class ring.,0.83,True,5
+2,apple,type of fruit.,0.71,False,5
+3,wrench,tool used for tightening or loosening nuts and bolts.,0.43,False,5
+4,canvas,canvas.,0.59,True,5
+5,egg beater,egg beater.,0.59,True,5
+6,toothbrush,toothbrush.,0.94,True,5
+7,box of crayons,box of crayons.,0.59,True,5
+8,shoe lace,shoe lace.,0.79,True,5
+9,pencil holder,pencil holder.,1.0,True,5
+10,rock,rock.,0.65,True,5
+11,garden spade,garden spade.,0.92,True,5
+12,snowglobe,snowglobe.,0.98,True,5
+13,washcloth,"traditional Mexican dish made with tomatoes, onions, and garlic.",0.27,False,5
+14,lime,type of citrus fruit.,0.49,False,5
+15,plush dog,plush toy.,0.84,False,5
+16,hand bag,hand bag.,0.98,True,5
+17,photo album,photo album.,0.95,True,5
+18,flashlight,flashlight.,0.91,True,5
+19,pair of glasses,pair of glasses.,0.97,True,5

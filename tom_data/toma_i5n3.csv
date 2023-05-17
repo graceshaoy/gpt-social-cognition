@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,box of baking soda,type of Mexican cheese.,0.87,False,3
+1,pair of handcuffs,pair of handcuffs.,0.45,True,3
+2,box of markers,box of markers.,0.8,True,3
+3,glasses,pair of glasses.,0.55,True,3
+4,multitool,multitool.,0.81,True,3
+5,game CD,game CD.,0.9,True,3
+6,thermometer,thermometer.,0.97,True,3
+7,whip,whip.,0.91,True,3
+8,stop sign,stop sign.,0.92,True,3
+9,drawer,drawer.,0.83,True,3
+10,dove,dove.,0.69,True,3
+11,book,book.,0.67,True,3
+12,lime,lime.,0.91,True,3
+13,pair of tongs,pair of tongs.,0.75,True,3
+14,sketch pad,sketch pad.,0.98,True,3
+15,hanger,hanger.,0.97,True,3
+16,snowglobe,snowglobe.,0.98,True,3
+17,ocarina,ocarina.,0.3,True,3
+18,bag,type of bag.,0.63,True,3
+19,tire swing,tire swing.,0.78,True,3

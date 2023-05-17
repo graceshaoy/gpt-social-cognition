@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,turtle,turtle.,0.78,True,6
+1,tweezers,tweezers.,0.94,True,6
+2,squirrel,squirrel.,0.67,True,6
+3,lamp,lamp.,0.97,True,6
+4,pair of handcuffs,pair of handcuffs.,0.91,True,6
+5,door,door.,0.93,True,6
+6,sticker book,sticker book.,0.99,True,6
+7,teddies,teddy bear.,0.49,False,6
+8,spool of wire,spool of wire.,0.99,True,6
+9,bookmark,bookmark.,0.87,True,6
+10,jigsaw puzzle,jigsaw puzzle.,0.96,True,6
+11,quilt,quilt.,0.76,True,6
+12,beaded bracelet,beaded bracelet.,0.91,True,6
+13,pearl necklace,pearl necklace.,0.95,True,6
+14,lace,lace.,0.47,True,6
+15,sticker book,sticker book.,0.95,True,6
+16,game CD,game CD.,0.91,True,6
+17,box of chalk,box of chalk.,0.89,True,6
+18,drawer,drawer.,0.78,True,6
+19,helmet,helmet.,0.66,True,6

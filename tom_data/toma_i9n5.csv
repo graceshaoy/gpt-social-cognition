@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,puddle,"type of small, freshwater fish native to South America.",0.21,False,5
+1,notebook,notebook.,0.46,True,5
+2,sandal,sandal.,0.76,True,5
+3,toilet paper tube,toilet paper tube.,0.94,True,5
+4,deodorant,deodorant.,0.72,True,5
+5,fake flowers,fake flower.,0.63,False,5
+6,handbasket,handbasket.,0.95,True,5
+7,toy plane,toy plane.,0.99,True,5
+8,pocketknife,pocketknife.,0.76,True,5
+9,sailboat,sailboat.,0.89,True,5
+10,jigsaw puzzle,jigsaw puzzle.,0.98,True,5
+11,pair of water goggles,type of swimming goggles.,0.59,False,5
+12,beef,tomato.,0.83,False,5
+13,rusty nail,type of traditional Spanish guitar.,0.41,False,5
+14,credit card,type of credit card.,0.52,True,5
+15,pair of scissors,type of fruit.,0.39,False,5
+16,toy boat,toy boat.,0.98,True,5
+17,toothpick,toothpick.,0.79,True,5
+18,coffee mug,coffee mug.,0.96,True,5
+19,plush dog,plush toy.,0.84,False,5

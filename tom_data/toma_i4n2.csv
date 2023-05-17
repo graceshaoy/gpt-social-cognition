@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,cars,toy car.,0.86,False,2
+1,watch,watch.,0.95,True,2
+2,bottle of water,type of fruit.,0.65,False,2
+3,buckle,buckle.,0.74,True,2
+4,lamp shade,lamp shade.,0.98,True,2
+5,bow,bow.,0.71,True,2
+6,needle,needle.,0.9,True,2
+7,banana,type of fruit.,0.81,False,2
+8,dictionary,"type of small, edible fish.",0.86,False,2
+9,kitchen knife,kitchen knife.,0.99,True,2
+10,water bottle,water bottle.,0.61,True,2
+11,rock,rock.,0.58,True,2
+12,toy car,toy car.,0.99,True,2
+13,computer,computer.,0.94,True,2
+14,drill press,tool used for drilling holes.,0.72,False,2
+15,mp3 player,mp3 player.,0.86,True,2
+16,egg,type of egg.,0.94,True,2
+17,egg timer,egg timer.,0.84,True,2
+18,fish,type of fish.,0.96,True,2
+19,fridge,type of refrigerator.,0.74,False,2

@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match
+0,hair tie,hair tie.,0.83,True
+1,tweezers,tweezers.,0.81,True
+2,pack of cards,pack of cards.,0.97,True
+3,candlestick,candlestick.,0.97,True
+4,eraser,eraser.,0.93,True
+5,pair of water goggles,pair of water goggles.,0.9,True
+6,egg timer,egg timer.,0.89,True
+7,acorn,type of acorn.,0.76,True
+8,box,box.,0.67,True
+9,bag of rubber bands,bag of rubber bands.,0.98,True
+10,glasses,type of eyeglass frame.,0.83,False
+11,toothpick,toothpick.,0.98,True
+12,nail clippers,nail clippers.,0.71,True
+13,wireless control,wireless remote control.,0.84,False
+14,spatula,spatula.,0.82,True
+15,bottle of syrup,bottle of syrup.,0.98,True
+16,cup,cup.,0.97,True
+17,carrots,"type of vegetable, specifically a carrot.",0.95,False
+18,dolphin,type of dolphin.,0.49,True
+19,tiger,tiger.,0.78,True

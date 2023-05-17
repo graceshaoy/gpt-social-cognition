@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,belt,belt.,0.88,True,8
+1,candy cane,candy cane.,0.83,True,8
+2,mp3 player,mp3 player.,0.86,True,8
+3,hand mirror,hand mirror.,0.98,True,8
+4,handful of change,coin.,0.87,False,8
+5,chalk,chalk.,0.96,True,8
+6,flashlight,flashlight.,0.89,True,8
+7,rabbit,rabbit.,0.75,True,8
+8,baseball bat,baseball bat.,0.96,True,8
+9,pen,pen.,0.9,True,8
+10,television,television.,0.98,True,8
+11,bag,bag.,0.3,True,8
+12,coffee pot,coffee pot.,0.85,True,8
+13,pencil holder,pencil holder.,0.99,True,8
+14,carrot,carrot.,0.95,True,8
+15,plush frog,plush frog.,0.97,True,8
+16,camera,camera.,0.95,True,8
+17,flag,flag.,0.9,True,8
+18,magnifying glass,magnifying glass.,0.96,True,8
+19,puddle,puddle.,0.56,True,8

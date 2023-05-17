@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,blouse,blouse.,0.51,True,2
+1,wrench,tool.,0.84,False,2
+2,button,button.,0.72,True,2
+3,baseball bat,baseball bat.,0.91,True,2
+4,map,map.,0.7,True,2
+5,boom box,type of music player.,0.45,False,2
+6,blowdryer,"type of item that Ally was looking for, but it was not in the bucket",0.28,False,2
+7,harmonica,musical instrument.,0.67,False,2
+8,toy plane,toy plane.,1.0,True,2
+9,lace,type of traditional Mexican toy.,0.42,False,2
+10,street lights,street light.,0.75,False,2
+11,whale,type of toy.,0.63,False,2
+12,sandglass,sandglass.,0.97,True,2
+13,mop,type of cleaning tool.,0.48,False,2
+14,canteen,canteen.,0.91,True,2
+15,monitor,computer monitor.,0.9,True,2
+16,handheld game system,handheld game system.,0.96,True,2
+17,coffee mug,coffee mug.,0.94,True,2
+18,marble,marble.,0.94,True,2
+19,laser pointer,laser pointer.,0.92,True,2

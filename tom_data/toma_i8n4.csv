@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,tiger,tiger.,0.58,True,4
+1,toy soldier,toy soldier.,0.99,True,4
+2,bow,bow.,0.95,True,4
+3,purse/bag,purse/bag.,0.59,True,4
+4,camera,camera.,0.98,True,4
+5,socks,type of sock.,0.42,False,4
+6,cookie tin,cookie tin.,0.85,True,4
+7,ball of yarn,ball of yarn.,0.48,True,4
+8,lime,lime.,0.74,True,4
+9,pair of dice,pair of dice.,0.88,True,4
+10,quartz crystal,quartz crystal.,0.91,True,4
+11,candle,candle.,0.89,True,4
+12,panda,stuffed animal.,0.97,False,4
+13,ocarina,musical instrument.,0.45,False,4
+14,spool of wire,spool of wire.,0.91,True,4
+15,boom box,boom box.,0.6,True,4
+16,music CD,music CD.,0.5,True,4
+17,pocketknife,type of knife.,0.46,False,4
+18,tooth pick,tooth pick.,0.98,True,4
+19,speakers,speaker.,0.48,False,4

@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,book,type of traditional Japanese drum.,0.33,False,10
+1,toothpaste,toothpaste.,0.81,True,10
+2,socks,type of fruit.,0.45,False,10
+3,cork,cork.,0.89,True,10
+4,packet of seeds,packet of seeds.,0.78,True,10
+5,bottle of nail polish,bottle of nail polish.,0.91,True,10
+6,street lights,street light.,0.92,False,10
+7,nail filer,nail filer.,0.95,True,10
+8,water bottle,water bottle.,0.82,True,10
+9,game cartridge,game cartridge.,0.84,True,10
+10,light,light.,0.61,True,10
+11,tissue box,tissue box.,0.99,True,10
+12,coffee pot,coffee pot.,0.8,True,10
+13,blouse,blouse.,0.71,True,10
+14,thimble,thimble.,0.97,True,10
+15,bouquet of flowers,bouquet of flowers.,0.93,True,10
+16,plush frog,plush frog.,0.9,True,10
+17,bandana,bandana.,0.81,True,10
+18,towel,towel.,0.85,True,10
+19,clay pot,clay pot.,0.91,True,10

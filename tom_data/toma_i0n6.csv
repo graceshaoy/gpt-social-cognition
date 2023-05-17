@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,plush cat,plush toy.,0.93,False,6
+1,spool of ribbon,spool of ribbon.,0.99,True,6
+2,speakers,type of speaker.,0.36,False,6
+3,socks,type of sock.,0.38,False,6
+4,roll of toilet paper,roll of toilet paper.,0.97,True,6
+5,feather,feather.,0.95,True,6
+6,check book,check book.,0.97,True,6
+7,sticky note,sticky note.,0.99,True,6
+8,statuette,statuette.,0.87,True,6
+9,dagger,dagger.,0.63,True,6
+10,leg warmers,type of leg warmer.,0.43,False,6
+11,chalk,chalk.,0.91,True,6
+12,table,table.,0.71,True,6
+13,book of jokes,book of jokes.,0.96,True,6
+14,miniature portrait,miniature portrait.,0.99,True,6
+15,purse/bag,purse/bag.,0.69,True,6
+16,rusty nail,rusty nail.,0.29,True,6
+17,chain,chain.,0.75,True,6
+18,tv,television.,0.79,False,6
+19,bow tie,bow tie.,0.96,True,6

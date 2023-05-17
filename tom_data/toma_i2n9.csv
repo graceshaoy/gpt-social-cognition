@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,shovel,shovel.,0.77,True,9
+1,bottle of paint,bottle of paint.,0.88,True,9
+2,piece of sand paper,piece of sand paper.,0.43,True,9
+3,lemon,lemon.,0.77,True,9
+4,money,coin.,0.42,False,9
+5,pool stick,pool stick.,0.9,True,9
+6,chain,chain.,0.78,True,9
+7,bonesaw,bonesaw.,0.75,True,9
+8,notebook,notebook.,0.55,True,9
+9,acorn,acorn.,0.66,True,9
+10,chain,chain.,0.61,True,9
+11,drawer,drawer.,0.85,True,9
+12,packet of seeds,packet of seeds.,0.59,True,9
+13,trash bag,trash bag.,0.63,True,9
+14,couch,couch.,0.5,True,9
+15,watch,watch.,0.95,True,9
+16,toothbrush,toothbrush.,0.96,True,9
+17,wristwatch,wristwatch.,0.94,True,9
+18,mouse pad,mouse pad.,0.94,True,9
+19,roll of duct tape,roll of duct tape.,0.65,True,9

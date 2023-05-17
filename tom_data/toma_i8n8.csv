@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,bar of soap,bar of soap.,0.9,True,8
+1,thread,type of thread.,0.25,True,8
+2,package of glitter,package of glitter.,0.9,True,8
+3,purse/bag,purse/bag.,0.88,True,8
+4,fake flowers,fake flower.,0.34,False,8
+5,cookie tin,cookie tin.,0.72,True,8
+6,catalogue,catalogue.,0.63,True,8
+7,Christmas ornament,Christmas ornament.,0.89,True,8
+8,clay pot,clay pot.,0.87,True,8
+9,card,card game.,0.36,True,8
+10,boom box,boom box.,0.42,True,8
+11,tomato,tomato.,0.97,True,8
+12,plush unicorn,plush unicorn.,0.91,True,8
+13,egg beater,kitchen utensil.,0.47,False,8
+14,pillow,pillow.,0.97,True,8
+15,music CD,music CD.,0.81,True,8
+16,clothes,traditional Mexican toy.,0.81,False,8
+17,credit card,credit card.,0.91,True,8
+18,plush pony,plush toy.,0.92,False,8
+19,box of chocolates,box of chocolates.,0.9,True,8

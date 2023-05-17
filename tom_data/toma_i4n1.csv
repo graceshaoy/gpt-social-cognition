@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,spool of ribbon,traditional Mexican game.,0.32,False,1
+1,pair of safety goggles,tool used for cutting and shaping wood.,0.41,False,1
+2,bonesaw,tool used for cutting bones.,0.68,False,1
+3,extension cord,type of vegetable.,0.77,False,1
+4,wine glass,type of wine glass.,0.83,True,1
+5,can of chili,type of food.,0.97,False,1
+6,box,type of vegetable.,0.8,False,1
+7,pair of socks,type of sock.,0.58,False,1
+8,picture frame,type of picture frame.,0.46,True,1
+9,toy robot,toy robot.,0.98,True,1
+10,house,type of traditional Mexican clay toy.,0.44,False,1
+11,needle,needle.,0.45,True,1
+12,plush cat,plush toy.,0.89,False,1
+13,egg,type of egg.,0.93,True,1
+14,clay pot,clay pot.,0.54,True,1
+15,wireless control,remote control.,0.46,False,1
+16,plush unicorn,plush toy.,0.57,False,1
+17,jar of jam,type of jam.,0.88,False,1
+18,ocarina,musical instrument.,0.45,False,1
+19,purse,type of purse.,0.51,True,1

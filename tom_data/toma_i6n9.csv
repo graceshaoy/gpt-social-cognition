@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,spool of wire,spool of wire.,0.97,True,9
+1,purse,purse.,0.71,True,9
+2,canteen,canteen.,0.92,True,9
+3,pocketwatch,pocketwatch.,0.8,True,9
+4,outlet,outlet.,0.34,True,9
+5,game CD,game CD.,0.92,True,9
+6,magnifying glass,magnifying glass.,0.72,True,9
+7,whale,whale.,0.87,True,9
+8,food,type of food.,0.9,True,9
+9,pool stick,pool stick.,0.91,True,9
+10,children's book,children's book.,0.89,True,9
+11,comb,comb.,0.89,True,9
+12,slipper,slipper.,0.7,True,9
+13,chalk,chalk.,0.92,True,9
+14,few batteries,tomato.,0.8,False,9
+15,butter knife,butter knife.,0.85,True,9
+16,helmet,helmet.,0.89,True,9
+17,light bulb,light bulb.,0.88,True,9
+18,cork,cork.,0.81,True,9
+19,chocolate,type of chocolate.,0.74,True,9

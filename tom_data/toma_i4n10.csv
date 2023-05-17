@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,water,type of watermelon.,0.62,True,10
+1,sticker book,sticker book.,0.74,True,10
+2,hair brush,hair brush.,0.55,True,10
+3,house,house.,0.47,True,10
+4,apple,type of apple.,0.69,True,10
+5,hair pin,hair pin.,0.95,True,10
+6,eraser,eraser.,0.99,True,10
+7,toilet paper tube,toilet paper tube.,0.94,True,10
+8,clothes,traditional Mexican hat.,0.78,False,10
+9,bottle,bottle.,0.77,True,10
+10,cup,cup.,0.91,True,10
+11,plush pony,plush toy.,0.96,False,10
+12,bottle of perfume,bottle of perfume.,0.79,True,10
+13,rock,rock.,0.82,True,10
+14,shirt button,shirt button.,0.64,True,10
+15,spool of wire,spool of wire.,0.98,True,10
+16,watch,watch.,0.94,True,10
+17,pair of glasses,pair of glasses.,0.91,True,10
+18,necktie,necktie.,0.93,True,10
+19,whale,whale.,0.84,True,10

@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,shoes,type of shoe.,0.75,False,4
+1,fork,fork.,0.64,True,4
+2,roll of stickers,roll of stickers.,0.92,True,4
+3,tiger,tiger.,0.83,True,4
+4,model car,model car.,0.96,True,4
+5,cup,cup.,0.69,True,4
+6,mobile phone,mobile phone.,0.8,True,4
+7,food,type of food.,0.96,True,4
+8,towel,towel.,0.56,True,4
+9,plush dog,plush toy.,0.88,False,4
+10,music CD,music CD.,0.44,True,4
+11,zebra,type of animal.,0.51,False,4
+12,pack of cards,pack of cards.,0.93,True,4
+13,socks,type of fruit.,0.67,False,4
+14,fish,type of fish.,0.76,True,4
+15,flag,flag.,0.79,True,4
+16,umbrella,umbrella.,0.96,True,4
+17,candy bar,type of candy.,0.58,False,4
+18,speakers,speaker.,0.38,False,4
+19,spool of ribbon,spool of ribbon.,0.87,True,4

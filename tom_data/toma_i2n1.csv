@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,toilet paper tube,type of game.,0.38,False,1
+1,cellphone,cellphone.,0.54,True,1
+2,egg timer,egg timer.,0.82,True,1
+3,whale,type of fish.,0.89,False,1
+4,conditioner,type of tomato.,0.92,False,1
+5,sidewalk,type of fruit.,0.83,False,1
+6,bouquet of flowers,type of flower.,0.79,False,1
+7,screw,type of screw.,0.49,True,1
+8,CD,type of music CD.,0.58,True,1
+9,empty jar,type of jar used to store food.,0.91,False,1
+10,snowglobe,snowglobe.,0.95,True,1
+11,plastic fork,type of vegetable.,0.83,False,1
+12,package of glitter,type of craft item.,0.65,False,1
+13,statuette,statuette.,0.51,True,1
+14,plush pony,plush toy.,0.58,False,1
+15,trash bag,type of vegetable.,0.9,False,1
+16,box of tissues,type of vegetable.,0.72,False,1
+17,paint brush,type of paint brush.,0.49,True,1
+18,perfume,type of perfume.,0.82,True,1
+19,extension cord,type of vegetable.,0.77,False,1

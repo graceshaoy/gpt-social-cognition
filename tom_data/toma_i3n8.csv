@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,washcloth,washcloth.,0.88,True,8
+1,cup,cup.,0.91,True,8
+2,toothpick,toothpick.,0.97,True,8
+3,clothes,traditional Mexican garment.,0.6,False,8
+4,bowl,bowl.,0.88,True,8
+5,microphone,microphone.,0.95,True,8
+6,soccer ball,soccer ball.,0.99,True,8
+7,jar of pickles,jar of pickles.,0.84,True,8
+8,statuette,statuette.,0.79,True,8
+9,spool of wire,spool of wire.,0.91,True,8
+10,tea pot,tea pot.,0.89,True,8
+11,CD,CD.,0.89,True,8
+12,box of tissues,box of tissues.,0.83,True,8
+13,money,Spanish slang term for money.,0.33,True,8
+14,bag,bag.,0.43,True,8
+15,sun glasses,pair of sunglasses.,0.47,False,8
+16,wristwatch,wristwatch.,0.95,True,8
+17,squirt gun,squirt gun.,0.82,True,8
+18,canteen,canteen.,0.92,True,8
+19,tweezers,tweezers.,0.96,True,8

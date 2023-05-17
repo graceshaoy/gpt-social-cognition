@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,broccoli,type of vegetable.,0.79,False,2
+1,needle,needle.,0.79,True,2
+2,washcloth,washcloth.,0.67,True,2
+3,white out,type of fruit.,0.43,False,2
+4,teddies,stuffed animal.,0.96,False,2
+5,tube of lip balm,type of lip balm.,0.76,False,2
+6,statuette,statuette.,0.78,True,2
+7,mirror,mirror.,0.6,True,2
+8,chalk,chalk.,0.87,True,2
+9,baseball,type of fruit.,0.46,False,2
+10,ring,ring.,0.76,True,2
+11,bottle of soda,type of food.,0.74,False,2
+12,cars,toy car.,0.9,False,2
+13,pants,type of clothing.,0.59,False,2
+14,hanger,hanger.,0.77,True,2
+15,candlestick,candlestick.,0.95,True,2
+16,snail shell,snail shell.,0.49,True,2
+17,knife,knife.,0.62,True,2
+18,bottle of nail polish,bottle of nail polish.,0.69,True,2
+19,drill press,drill press.,0.39,True,2

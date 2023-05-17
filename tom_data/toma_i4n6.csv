@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,plush unicorn,plush toy.,0.79,False,6
+1,rusty nail,rusty nail.,0.39,True,6
+2,buckle,buckle.,0.86,True,6
+3,camera,camera.,0.96,True,6
+4,toy car,toy car.,0.99,True,6
+5,can of whipped cream,can of whipped cream.,0.85,True,6
+6,toy soldier,toy soldier.,0.99,True,6
+7,blowdryer,blowdryer.,0.89,True,6
+8,hand fan,hand fan.,0.87,True,6
+9,hand bag,hand bag.,0.85,True,6
+10,rope,rope.,0.78,True,6
+11,bottle of glue,bottle of glue.,0.57,True,6
+12,sun glasses,pair of sunglasses.,0.47,False,6
+13,shampoo,shampoo.,0.61,True,6
+14,dog,type of dog.,0.34,True,6
+15,tire swing,tire swing.,0.96,True,6
+16,scotch tape,type of tape.,0.42,False,6
+17,sofa,sofa.,0.73,True,6
+18,cement stone,cement stone.,0.98,True,6
+19,word search,type of puzzle game.,0.44,False,6

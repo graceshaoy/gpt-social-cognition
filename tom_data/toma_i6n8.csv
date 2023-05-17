@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,quilt,quilt.,0.81,True,8
+1,ring,ring.,0.87,True,8
+2,shirt button,shirt button.,0.67,True,8
+3,spatula,spatula.,0.97,True,8
+4,bell,bell.,0.94,True,8
+5,toy boat,toy boat.,0.99,True,8
+6,wedding ring,wedding ring.,0.71,True,8
+7,plush pony,plush toy.,0.89,False,8
+8,cookie tin,cookie tin.,0.86,True,8
+9,bottle,bottle of wine.,0.69,True,8
+10,rhino,rhino.,0.96,True,8
+11,safety pin,safety pin.,0.94,True,8
+12,can of chili,can of chili.,0.71,True,8
+13,spoon,spoon.,0.89,True,8
+14,bottle of perfume,bottle of perfume.,0.73,True,8
+15,hair pin,hair pin.,0.92,True,8
+16,credit card,credit card.,0.93,True,8
+17,ice cream stick,ice cream stick.,0.62,True,8
+18,card,card game.,0.32,True,8
+19,ball of yarn,tomato.,0.65,False,8

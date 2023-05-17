@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,bow,bow.,0.95,True,6
+1,frying pan,frying pan.,0.72,True,6
+2,cookie jar,cookie jar.,0.9,True,6
+3,lace,lace.,0.81,True,6
+4,radio,radio.,0.97,True,6
+5,can of beans,type of bean.,0.45,False,6
+6,socks,type of sock.,0.35,False,6
+7,picture frame,picture frame.,0.88,True,6
+8,twister,twister.,0.61,True,6
+9,bottle of nail polish,bottle of nail polish.,0.83,True,6
+10,sidewalk,type of sidewalk.,0.33,True,6
+11,lion,stuffed animal.,0.64,False,6
+12,jigsaw puzzle,jigsaw puzzle.,0.96,True,6
+13,cowboy hat,cowboy hat.,0.72,True,6
+14,rubber stamp,rubber stamp.,0.99,True,6
+15,game CD,game CD.,0.9,True,6
+16,spool of thread,spool of thread.,0.99,True,6
+17,cars,toy car.,0.52,False,6
+18,blouse,blouse.,0.51,True,6
+19,hair tie,hair tie.,0.94,True,6

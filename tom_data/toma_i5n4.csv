@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,container of pudding,type of pudding.,0.48,False,4
+1,matchbook,matchbook.,0.98,True,4
+2,tennis racket,tennis racket.,0.66,True,4
+3,wireless control,wireless control.,0.98,True,4
+4,book,book.,0.7,True,4
+5,whip,whip.,0.88,True,4
+6,zipper,zipper.,0.97,True,4
+7,trash bag,"type of small, edible fish.",0.59,False,4
+8,roll of stickers,roll of stickers.,0.74,True,4
+9,puddle,"type of small, edible fish found in the Mediterranean Sea.",0.61,False,4
+10,ipod charger,iphone charger.,0.46,False,4
+11,brush,brush.,0.62,True,4
+12,pencil,pencil.,0.99,True,4
+13,washing machine,washing machine.,0.95,True,4
+14,CD,CD.,0.78,True,4
+15,tweezers,tweezers.,0.84,True,4
+16,button,button.,0.87,True,4
+17,clock,clock.,0.89,True,4
+18,postage stamp,postage stamp.,0.98,True,4
+19,milk,type of cheese.,0.91,False,4

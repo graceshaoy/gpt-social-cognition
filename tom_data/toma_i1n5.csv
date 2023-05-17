@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,pillow,pillow.,0.78,True,5
+1,pillow,pillow.,0.9,True,5
+2,sticker book,sticker book.,0.88,True,5
+3,beaded necklace,beaded necklace.,0.91,True,5
+4,squirt gun,squirt gun.,0.72,True,5
+5,spool of string,spool of string.,0.95,True,5
+6,bananas,type of fruit.,0.88,False,5
+7,snowglobe,snowglobe.,0.99,True,5
+8,spool of thread,spool of thread.,0.99,True,5
+9,nail filer,nail filer.,0.82,True,5
+10,paint brush,paint brush.,0.83,True,5
+11,rhino,rhino.,0.75,True,5
+12,deodorant,deodorant.,0.71,True,5
+13,desk,desk.,0.53,True,5
+14,sidewalk,sidewalk.,0.44,True,5
+15,hair pin,hair pin.,0.92,True,5
+16,cellphone,cellphone.,0.86,True,5
+17,grocery list,grocery list.,0.92,True,5
+18,thread,type of thread.,0.37,True,5
+19,ocarina,ocarina.,0.73,True,5

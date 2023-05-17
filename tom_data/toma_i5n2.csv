@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,radio,radio.,0.92,True,2
+1,zipper,zipper.,0.71,True,2
+2,cement stone,cement stone.,0.79,True,2
+3,clothes,type of traditional Mexican dish.,0.7,False,2
+4,children's book,children's book.,0.68,True,2
+5,soccer ball,soccer ball.,0.79,True,2
+6,chalk,chalk used for drawing on a chalkboard.,0.83,True,2
+7,beaded bracelet,beaded bracelet.,0.93,True,2
+8,bottle,bottle.,0.58,True,2
+9,video games,video game.,0.91,False,2
+10,Christmas ornament,Christmas ornament.,0.81,True,2
+11,comb,comb.,0.91,True,2
+12,sharpie,marker.,0.86,False,2
+13,spool of thread,spool of thread.,0.88,True,2
+14,trucks,toy truck.,0.86,False,2
+15,balloon,balloon.,0.86,True,2
+16,canvas,canvas.,0.83,True,2
+17,spool of wire,type of tool used for cutting wire.,0.61,False,2
+18,straw,type of straw used to drink beverages.,0.41,True,2
+19,picture frame,picture frame.,0.74,True,2

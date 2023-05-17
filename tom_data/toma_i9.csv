@@ -1,0 +1,201 @@
+,Toma,Completion,Probability,Match,Tries
+0,chenille stick,chenille stick.,0.45,True,1
+1,wallet,type of wallet.,0.7,True,1
+2,harmonica,musical instrument.,0.58,False,1
+3,brush,type of brush.,0.5,True,1
+4,tube of lipstick,type of lipstick.,0.59,False,1
+5,snowglobe,snowglobe.,0.95,True,1
+6,baseball hat,baseball hat.,0.57,True,1
+7,giraffe,type of toy.,0.59,False,1
+8,sticky note,type of tomato.,0.88,False,1
+9,stockings,type of vegetable.,0.67,False,1
+10,class ring,type of jewelry.,0.42,False,1
+11,tooth pick,toothpick.,0.56,False,1
+12,pair of safety goggles,tool used for cutting and shaping wood.,0.38,False,1
+13,buckle,type of buckle.,0.56,True,1
+14,fishing hook,type of fish.,0.84,False,1
+15,pair of rubber gloves,tool used for gardening.,0.46,False,1
+16,box,type of vegetable.,0.8,False,1
+17,hammer,tool used for pounding or hammering.,0.74,True,1
+18,cookie jar,cookie jar.,0.49,True,1
+19,bouquet of flowers,type of flower.,0.79,False,1
+20,ipod,type of electronic device.,0.46,False,2
+21,game CD,game CD.,0.87,True,2
+22,purse/bag,purse/bag.,0.84,True,2
+23,box of crayons,box of crayons.,0.83,True,2
+24,shirt,type of shirt.,0.46,True,2
+25,bottle,bottle of wine.,0.5,True,2
+26,lace,type of lace.,0.55,True,2
+27,turtle,turtle.,0.73,True,2
+28,bottle,bottle.,0.61,True,2
+29,balloon,balloon.,0.76,True,2
+30,flashlight,flashlight.,0.96,True,2
+31,canvas,canvas.,0.79,True,2
+32,acorn,type of nut.,0.57,False,2
+33,bottle of water,type of tomato.,0.85,False,2
+34,table,table.,0.56,True,2
+35,roll of stickers,roll of stickers.,0.71,True,2
+36,bottle of glue,type of tool.,0.38,False,2
+37,canvas,canvas.,0.41,True,2
+38,toe ring,toe ring.,0.72,True,2
+39,spool of string,spool of string.,0.97,True,2
+40,button,button.,0.89,True,3
+41,shampoo,tomato.,0.89,False,3
+42,bottle of glue,type of tomato.,0.66,False,3
+43,zipper,zipper.,0.92,True,3
+44,package of crisp and crunchy edibles,package of crisp and crunchy edibles.,0.63,True,3
+45,ladle,ladle.,0.91,True,3
+46,snail shell,snail shell.,0.94,True,3
+47,small pouch,small pouch.,0.92,True,3
+48,zipper,zipper.,0.95,True,3
+49,rubber duck,rubber duck.,0.99,True,3
+50,magnifying glass,magnifying glass.,0.93,True,3
+51,desk,desk.,0.65,True,3
+52,ipod charger,ipod charger.,0.45,True,3
+53,rubber stamp,rubber stamp.,1.0,True,3
+54,rope,rope.,0.98,True,3
+55,bag of popcorn,type of snack food.,0.86,False,3
+56,eraser,eraser.,1.0,True,3
+57,slipper,type of shoe.,0.47,False,3
+58,safety pin,safety pin.,0.96,True,3
+59,leg warmers,type of clothing.,0.73,False,3
+60,beaded necklace,beaded necklace.,0.91,True,4
+61,packet of seeds,type of seed.,0.61,False,4
+62,chapter book,chapter book.,0.91,True,4
+63,hanger,hanger.,0.74,True,4
+64,giraffe,giraffe.,0.62,True,4
+65,dolphin,type of dolphin.,0.47,True,4
+66,buckle,buckle.,0.93,True,4
+67,hair tie,hair tie.,0.9,True,4
+68,spice bottle,spice bottle.,0.65,True,4
+69,knife,type of knife.,0.54,True,4
+70,salt shaker,type of salt shaker.,0.6,True,4
+71,buckle,buckle.,0.8,True,4
+72,game CD,game CD.,0.68,True,4
+73,slipper,slipper.,0.36,True,4
+74,photo album,photo album.,0.9,True,4
+75,sticker book,sticker book.,0.98,True,4
+76,spool of thread,spool of thread.,0.5,True,4
+77,bracelet,bracelet.,0.94,True,4
+78,rug,rug.,0.85,True,4
+79,plush dinosaur,plush dinosaur.,0.97,True,4
+80,puddle,"type of small, freshwater fish native to South America.",0.21,False,5
+81,notebook,notebook.,0.46,True,5
+82,sandal,sandal.,0.76,True,5
+83,toilet paper tube,toilet paper tube.,0.94,True,5
+84,deodorant,deodorant.,0.72,True,5
+85,fake flowers,fake flower.,0.63,False,5
+86,handbasket,handbasket.,0.95,True,5
+87,toy plane,toy plane.,0.99,True,5
+88,pocketknife,pocketknife.,0.76,True,5
+89,sailboat,sailboat.,0.89,True,5
+90,jigsaw puzzle,jigsaw puzzle.,0.98,True,5
+91,pair of water goggles,type of swimming goggles.,0.59,False,5
+92,beef,tomato.,0.83,False,5
+93,rusty nail,type of traditional Spanish guitar.,0.41,False,5
+94,credit card,type of credit card.,0.52,True,5
+95,pair of scissors,type of fruit.,0.39,False,5
+96,toy boat,toy boat.,0.98,True,5
+97,toothpick,toothpick.,0.79,True,5
+98,coffee mug,coffee mug.,0.96,True,5
+99,plush dog,plush toy.,0.84,False,5
+100,bow,bow.,0.95,True,6
+101,frying pan,frying pan.,0.72,True,6
+102,cookie jar,cookie jar.,0.9,True,6
+103,lace,lace.,0.81,True,6
+104,radio,radio.,0.97,True,6
+105,can of beans,type of bean.,0.45,False,6
+106,socks,type of sock.,0.35,False,6
+107,picture frame,picture frame.,0.88,True,6
+108,twister,twister.,0.61,True,6
+109,bottle of nail polish,bottle of nail polish.,0.83,True,6
+110,sidewalk,type of sidewalk.,0.33,True,6
+111,lion,stuffed animal.,0.64,False,6
+112,jigsaw puzzle,jigsaw puzzle.,0.96,True,6
+113,cowboy hat,cowboy hat.,0.72,True,6
+114,rubber stamp,rubber stamp.,0.99,True,6
+115,game CD,game CD.,0.9,True,6
+116,spool of thread,spool of thread.,0.99,True,6
+117,cars,toy car.,0.52,False,6
+118,blouse,blouse.,0.51,True,6
+119,hair tie,hair tie.,0.94,True,6
+120,can of peas,can of peas.,0.67,True,7
+121,pasta strainer,pasta strainer.,0.96,True,7
+122,sheep,sheep.,0.83,True,7
+123,pail,pail.,0.69,True,7
+124,purse,purse.,0.7,True,7
+125,rock,rock.,0.78,True,7
+126,bread,type of bread.,0.87,True,7
+127,sofa,sofa.,0.7,True,7
+128,door,door.,0.98,True,7
+129,cement stone,cement stone.,0.96,True,7
+130,light,flashlight.,0.6,True,7
+131,quartz crystal,quartz crystal.,0.93,True,7
+132,cowboy hat,cowboy hat.,0.86,True,7
+133,rubber stamp,rubber stamp.,0.99,True,7
+134,tube of lip balm,tube of lip balm.,0.69,True,7
+135,deodorant,deodorant.,0.89,True,7
+136,glass,glass.,0.88,True,7
+137,outlet,electrical outlet.,0.28,True,7
+138,small pouch,small pouch.,0.94,True,7
+139,washing machine,washing machine.,0.95,True,7
+140,ice pick,ice pick.,0.89,True,8
+141,can of peas,can of peas.,0.83,True,8
+142,CD,CD.,0.91,True,8
+143,ipod,ipod.,0.65,True,8
+144,sponge,sponge.,0.77,True,8
+145,canteen,canteen.,0.84,True,8
+146,straw,straw.,0.71,True,8
+147,whip,whip.,0.9,True,8
+148,bowl,bowl.,0.39,True,8
+149,street lights,street light.,0.86,False,8
+150,key chain,key chain.,0.98,True,8
+151,box of baking soda,box of baking soda.,0.53,True,8
+152,bottle of syrup,bottle of syrup.,0.79,True,8
+153,plush dog,plush toy.,0.96,False,8
+154,paintbrush,paintbrush.,0.78,True,8
+155,bangle bracelet,bangle bracelet.,0.95,True,8
+156,coffee pot,coffee pot.,0.95,True,8
+157,roll of masking tape,roll of masking tape.,0.85,True,8
+158,white out,white out.,0.91,True,8
+159,perfume,type of perfume.,0.34,True,8
+160,magazine,magazine.,0.33,True,9
+161,bottle of paint,bottle of paint.,0.79,True,9
+162,word search,word search.,0.61,True,9
+163,egg,egg.,0.75,True,9
+164,glasses,pair of glasses.,0.53,True,9
+165,cow,cow.,0.94,True,9
+166,pocketknife,pocketknife.,0.86,True,9
+167,domino set,domino set.,0.8,True,9
+168,quartz crystal,quartz crystal.,0.89,True,9
+169,hair ribbon,hair ribbon.,0.85,True,9
+170,spice bottle,spice bottle.,0.72,True,9
+171,sticky note,sticky note.,0.94,True,9
+172,butter knife,butter knife.,0.91,True,9
+173,bottle of water,bottle of water.,0.91,True,9
+174,container of pudding,container of pudding.,0.71,True,9
+175,clothes pin,clothes pin.,0.97,True,9
+176,baseball,baseball.,0.88,True,9
+177,cucumber,cucumber.,0.77,True,9
+178,wishbone,wishbone.,0.75,True,9
+179,tennis racket,tennis racket.,0.96,True,9
+180,cat,cat.,0.69,True,10
+181,bangle bracelet,bangle bracelet.,0.94,True,10
+182,baseball hat,baseball hat.,0.88,True,10
+183,mobile phone,mobile phone.,0.96,True,10
+184,shark,shark.,0.36,True,10
+185,wireless control,wireless control.,0.97,True,10
+186,bracelet,bracelet.,0.91,True,10
+187,pair of spectacles,pair of spectacles.,0.95,True,10
+188,package of crisp and crunchy edibles,package of crisp and crunchy edibles.,0.78,True,10
+189,money,Spanish coin.,0.44,False,10
+190,knife,knife.,0.62,True,10
+191,pasta strainer,pasta strainer.,0.96,True,10
+192,quilt,quilt.,0.86,True,10
+193,key chain,key chain.,0.99,True,10
+194,screwdriver,screwdriver.,0.78,True,10
+195,buckle,buckle.,0.7,True,10
+196,bottle of water,bottle of water.,0.72,True,10
+197,soap,soap.,0.36,True,10
+198,ball of yarn,ball of yarn.,0.86,True,10
+199,rock,rock.,0.89,True,10

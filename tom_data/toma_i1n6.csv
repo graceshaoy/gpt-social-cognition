@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,laser pointer,laser pointer.,0.94,True,6
+1,toothpaste,toothpaste.,0.94,True,6
+2,shawl,shawl.,0.75,True,6
+3,bottle of soda,bottle of soda.,0.7,True,6
+4,hand mirror,hand mirror.,0.98,True,6
+5,chain,chain.,0.74,True,6
+6,catalogue,catalogue.,0.37,True,6
+7,bookmark,bookmark.,0.72,True,6
+8,computer,computer.,0.89,True,6
+9,hanger,hanger.,0.6,True,6
+10,rabbit,rabbit.,0.57,True,6
+11,flower,flower.,0.85,True,6
+12,hair clip,hair clip.,0.89,True,6
+13,cement stone,cement stone.,0.96,True,6
+14,table,table.,0.51,True,6
+15,bag of cotton balls,type of traditional Mexican toy.,0.5,False,6
+16,stockings,stocking.,0.97,False,6
+17,shawl,shawl.,0.69,True,6
+18,bracelet,bracelet.,0.92,True,6
+19,sofa,sofa.,0.54,True,6

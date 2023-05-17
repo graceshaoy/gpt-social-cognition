@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,giraffe,toy giraffe.,0.57,True,2
+1,sidewalk,type of stone.,0.65,False,2
+2,candy bar,type of candy.,0.83,False,2
+3,pair of sunglasses,pair of sunglasses.,0.77,True,2
+4,brush,brush.,0.8,True,2
+5,water bottle,type of water bottle.,0.58,True,2
+6,plush frog,plush toy.,0.94,False,2
+7,deodorant,type of vegetable.,0.74,False,2
+8,television,television.,0.98,True,2
+9,blouse,blouse.,0.43,True,2
+10,keys,key.,0.84,False,2
+11,pair of socks,type of item that Ally was looking for but was not in the bucket.,0.49,False,2
+12,lamp,lamp.,0.92,True,2
+13,lip gloss,lip gloss.,0.72,True,2
+14,pencil,pencil.,0.99,True,2
+15,giraffe,toy giraffe.,0.59,True,2
+16,tea cup,tea cup.,0.79,True,2
+17,deodorant,deodorant.,0.58,True,2
+18,scarf,scarf.,0.8,True,2
+19,box of chocolates,type of cheese.,0.91,False,2

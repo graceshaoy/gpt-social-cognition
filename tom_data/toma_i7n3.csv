@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,incense holder,incense holder.,0.93,True,3
+1,helmet,helmet.,0.91,True,3
+2,toy soldier,toy soldier.,0.98,True,3
+3,check book,check book.,0.97,True,3
+4,wrench,tool used for tightening and loosening nuts and bolts.,0.68,False,3
+5,ipod,ipod.,0.32,True,3
+6,candy wrapper,type of candy.,0.66,False,3
+7,trucks,toy truck.,0.87,False,3
+8,book,book.,0.68,True,3
+9,dog,type of dog.,0.61,True,3
+10,water,type of fruit.,0.8,False,3
+11,box of Q-tips,type of Spanish cheese.,0.55,False,3
+12,canteen,canteen.,0.89,True,3
+13,chenille stick,chenille stick.,0.98,True,3
+14,hanger,hanger.,0.91,True,3
+15,rusty nail,type of Spanish tomato.,0.51,False,3
+16,mp3 player,mp3 player.,0.88,True,3
+17,rubber band,rubber band.,0.97,True,3
+18,bookmark,bookmark.,0.86,True,3
+19,carton of ice cream,type of cheese.,0.92,False,3

@@ -1,0 +1,5 @@
+,Prompt,Completion,Probability
+0,"Here is a bag filled with popcorn. There is no chocolate in the bag. Yet, the label on the bag says 'chocolate' and not 'popcorn.' Sam finds the bag. She had never seen the bag before. She cannot see what is inside the bag. She reads the label. She is delighted that she has found this bag. She loves eating ","chocolate.
+
+Sam is in for a surprise when she opens the bag.",0.98
+1,"Here is a bag filled with popcorn. There is no chocolate in the bag. Yet, the label on the bag says 'chocolate' and not 'popcorn.' Sam finds the bag. She had never seen the bag before. She cannot see what is inside the bag. She reads the label. She opens the bag and inspects its contents. She can clearly see that it is full of ",popcorn and not chocolate. She is surprised and confused by the label. She wonders,0.98

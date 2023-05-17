@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,box,box.,0.42,True,5
+1,mobile phone,mobile phone.,0.97,True,5
+2,thermometer,thermometer.,0.97,True,5
+3,bottle of perfume,bottle of perfume.,0.63,True,5
+4,pair of rubber gloves,pair of rubber gloves.,0.29,True,5
+5,puddle,"type of small, edible fish.",0.35,False,5
+6,wedding ring,wedding ring.,0.6,True,5
+7,rug,rug.,0.72,True,5
+8,pants,type of pants.,0.37,True,5
+9,balloon,balloon.,0.87,True,5
+10,drawer,drawer.,0.43,True,5
+11,picture frame,picture frame.,0.8,True,5
+12,paperclip,paperclip.,0.96,True,5
+13,small pouch,small pouch.,0.58,True,5
+14,martini glass,martini glass.,0.92,True,5
+15,package of glitter,package of glitter.,0.59,True,5
+16,rope,rope.,0.68,True,5
+17,stockings,stocking.,0.75,False,5
+18,whale,whale.,0.63,True,5
+19,mp3 player,mp3 player.,0.85,True,5

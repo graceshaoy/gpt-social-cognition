@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,magazine,magazine.,0.33,True,9
+1,bottle of paint,bottle of paint.,0.79,True,9
+2,word search,word search.,0.61,True,9
+3,egg,egg.,0.75,True,9
+4,glasses,pair of glasses.,0.53,True,9
+5,cow,cow.,0.94,True,9
+6,pocketknife,pocketknife.,0.86,True,9
+7,domino set,domino set.,0.8,True,9
+8,quartz crystal,quartz crystal.,0.89,True,9
+9,hair ribbon,hair ribbon.,0.85,True,9
+10,spice bottle,spice bottle.,0.72,True,9
+11,sticky note,sticky note.,0.94,True,9
+12,butter knife,butter knife.,0.91,True,9
+13,bottle of water,bottle of water.,0.91,True,9
+14,container of pudding,container of pudding.,0.71,True,9
+15,clothes pin,clothes pin.,0.97,True,9
+16,baseball,baseball.,0.88,True,9
+17,cucumber,cucumber.,0.77,True,9
+18,wishbone,wishbone.,0.75,True,9
+19,tennis racket,tennis racket.,0.96,True,9

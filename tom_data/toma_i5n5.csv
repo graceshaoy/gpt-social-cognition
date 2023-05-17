@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,orange,type of orange.,0.72,True,5
+1,pants,type of pants.,0.55,True,5
+2,lemon,lemon.,0.63,True,5
+3,banana,type of fruit.,0.8,False,5
+4,magnifying glass,magnifying glass.,0.96,True,5
+5,deodorant,deodorant.,0.69,True,5
+6,craft book,craft book.,0.93,True,5
+7,paper,"traditional Spanish dish made with potatoes, eggs, and onions.",0.4,False,5
+8,fishing hook,type of fish.,0.57,False,5
+9,flag,flag.,0.89,True,5
+10,acorn,acorn.,0.64,True,5
+11,glass,glass.,0.67,True,5
+12,plush dinosaur,plush dinosaur.,0.97,True,5
+13,martini glass,martini glass.,0.94,True,5
+14,dog,type of dog.,0.48,True,5
+15,rock,rock.,0.45,True,5
+16,food,type of food.,0.94,True,5
+17,glass,glass.,0.7,True,5
+18,cement stone,cement stone.,0.67,True,5
+19,roll of masking tape,roll of masking tape.,0.7,True,5

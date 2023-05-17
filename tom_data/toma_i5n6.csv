@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,catalogue,type of catalogue.,0.38,True,6
+1,pearl necklace,pearl necklace.,0.92,True,6
+2,box of crayons,box of crayons.,0.9,True,6
+3,container of pudding,container of pudding.,0.61,True,6
+4,empty bottle,type of bottle.,0.26,False,6
+5,plush cat,plush cat.,0.94,True,6
+6,comic book,comic book.,0.99,True,6
+7,book of matches,book of matches.,0.92,True,6
+8,miniature portrait,miniature portrait.,0.98,True,6
+9,tissue box,tissue box.,0.99,True,6
+10,bottle of sunscreen,type of traditional Mexican game.,0.48,False,6
+11,whistle,whistle.,0.93,True,6
+12,plate,plate.,0.89,True,6
+13,plush frog,plush frog.,0.68,True,6
+14,cars,toy car.,0.67,False,6
+15,magnifying glass,magnifying glass.,0.95,True,6
+16,bottle,bottle of wine.,0.58,True,6
+17,lamp,lamp.,0.98,True,6
+18,dolphin,dolphin.,0.46,True,6
+19,mirror,mirror.,0.86,True,6

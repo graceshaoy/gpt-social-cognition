@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,phone,smartphone.,0.29,True,5
+1,bottle of syrup,type of clay pot.,0.47,False,5
+2,domino set,domino set.,0.84,True,5
+3,egg beater,kitchen utensil.,0.34,False,5
+4,pair of tongs,pair of tongs.,0.63,True,5
+5,rope,rope.,0.79,True,5
+6,carton of ice cream,type of food.,0.8,False,5
+7,camera,camera.,0.96,True,5
+8,fork,fork.,0.57,True,5
+9,pocketknife,pocketknife.,0.74,True,5
+10,bottle cap,bottle cap.,0.97,True,5
+11,belt,belt.,0.95,True,5
+12,notebook,notebook.,0.77,True,5
+13,bottle of lotion,type of bottle.,0.56,False,5
+14,cookie jar,cookie jar.,0.68,True,5
+15,wishbone,wishbone.,0.88,True,5
+16,cow,cow.,0.5,True,5
+17,purse,purse.,0.41,True,5
+18,lime,lime.,0.72,True,5
+19,mouse pad,mouse pad.,0.96,True,5

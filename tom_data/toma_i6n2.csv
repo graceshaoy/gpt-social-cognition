@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,carton of ice cream,type of cheese.,0.88,False,2
+1,class ring,class ring.,0.73,True,2
+2,candy cane,type of candy.,0.64,False,2
+3,sword,sword.,0.71,True,2
+4,squirrel,type of animal.,0.51,False,2
+5,toy top,toy top.,0.99,True,2
+6,bottle of oil,bottle of oil.,0.59,True,2
+7,book,book.,0.96,True,2
+8,magnifying glass,magnifying glass.,0.97,True,2
+9,notebook,notebook.,0.95,True,2
+10,shoes,type of shoe.,0.83,False,2
+11,roll of stickers,roll of stickers.,0.76,True,2
+12,glasses,pair of glasses.,0.83,True,2
+13,children's book,children's book.,0.65,True,2
+14,picture frame,picture frame.,0.86,True,2
+15,beef,type of food.,0.97,False,2
+16,video games,video game.,0.93,False,2
+17,wrench,tool.,0.81,False,2
+18,magnet,magnet.,0.79,True,2
+19,safety pin,safety pin.,0.97,True,2

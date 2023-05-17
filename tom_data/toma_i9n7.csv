@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,can of peas,can of peas.,0.67,True,7
+1,pasta strainer,pasta strainer.,0.96,True,7
+2,sheep,sheep.,0.83,True,7
+3,pail,pail.,0.69,True,7
+4,purse,purse.,0.7,True,7
+5,rock,rock.,0.78,True,7
+6,bread,type of bread.,0.87,True,7
+7,sofa,sofa.,0.7,True,7
+8,door,door.,0.98,True,7
+9,cement stone,cement stone.,0.96,True,7
+10,light,flashlight.,0.6,True,7
+11,quartz crystal,quartz crystal.,0.93,True,7
+12,cowboy hat,cowboy hat.,0.86,True,7
+13,rubber stamp,rubber stamp.,0.99,True,7
+14,tube of lip balm,tube of lip balm.,0.69,True,7
+15,deodorant,deodorant.,0.89,True,7
+16,glass,glass.,0.88,True,7
+17,outlet,electrical outlet.,0.28,True,7
+18,small pouch,small pouch.,0.94,True,7
+19,washing machine,washing machine.,0.95,True,7

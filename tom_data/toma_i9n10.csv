@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,cat,cat.,0.69,True,10
+1,bangle bracelet,bangle bracelet.,0.94,True,10
+2,baseball hat,baseball hat.,0.88,True,10
+3,mobile phone,mobile phone.,0.96,True,10
+4,shark,shark.,0.36,True,10
+5,wireless control,wireless control.,0.97,True,10
+6,bracelet,bracelet.,0.91,True,10
+7,pair of spectacles,pair of spectacles.,0.95,True,10
+8,package of crisp and crunchy edibles,package of crisp and crunchy edibles.,0.78,True,10
+9,money,Spanish coin.,0.44,False,10
+10,knife,knife.,0.62,True,10
+11,pasta strainer,pasta strainer.,0.96,True,10
+12,quilt,quilt.,0.86,True,10
+13,key chain,key chain.,0.99,True,10
+14,screwdriver,screwdriver.,0.78,True,10
+15,buckle,buckle.,0.7,True,10
+16,bottle of water,bottle of water.,0.72,True,10
+17,soap,soap.,0.36,True,10
+18,ball of yarn,ball of yarn.,0.86,True,10
+19,rock,rock.,0.89,True,10

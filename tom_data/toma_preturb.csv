@@ -1,0 +1,21 @@
+,Item,Completion,Probability,Match
+0,pair of pants,pair of pants.,0.65,True
+1,picture frame,picture frame.,0.51,True
+2,knife,knife.,0.72,True
+3,cookie tin,cookie tin.,0.82,True
+4,hair ribbon,hair ribbon.,0.93,True
+5,bottle,bottle of wine.,0.73,True
+6,box of tissues,box of tissues.,0.51,True
+7,tissue box,tissue box.,0.99,True
+8,bottle of perfume,bottle of perfume.,0.67,True
+9,pair of sunglasses,pair of sunglasses.,0.99,True
+10,knitting needle,knitting needle.,0.94,True
+11,fish,type of fish.,0.47,True
+12,baseball bat,baseball bat.,0.97,True
+13,pocketwatch,pocketwatch.,0.94,True
+14,pair of scissors,pair of scissors.,0.97,True
+15,lipstick,lipstick.,0.95,True
+16,lotion,lotion.,0.63,True
+17,soccer ball,soccer ball.,0.99,True
+18,butter knife,butter knife.,0.89,True
+19,flag,flag.,0.9,True

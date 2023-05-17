@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,ice pick,ice pick.,0.89,True,8
+1,can of peas,can of peas.,0.83,True,8
+2,CD,CD.,0.91,True,8
+3,ipod,ipod.,0.65,True,8
+4,sponge,sponge.,0.77,True,8
+5,canteen,canteen.,0.84,True,8
+6,straw,straw.,0.71,True,8
+7,whip,whip.,0.9,True,8
+8,bowl,bowl.,0.39,True,8
+9,street lights,street light.,0.86,False,8
+10,key chain,key chain.,0.98,True,8
+11,box of baking soda,box of baking soda.,0.53,True,8
+12,bottle of syrup,bottle of syrup.,0.79,True,8
+13,plush dog,plush toy.,0.96,False,8
+14,paintbrush,paintbrush.,0.78,True,8
+15,bangle bracelet,bangle bracelet.,0.95,True,8
+16,coffee pot,coffee pot.,0.95,True,8
+17,roll of masking tape,roll of masking tape.,0.85,True,8
+18,white out,white out.,0.91,True,8
+19,perfume,type of perfume.,0.34,True,8

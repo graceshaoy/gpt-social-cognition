@@ -1,0 +1,21 @@
+,Toma,Completion,Probability,Match,Tries
+0,bottle of oil,type of olive oil.,0.88,False,1
+1,credit card,type of credit card.,0.73,True,1
+2,bangle bracelet,bangle bracelet.,0.52,True,1
+3,wireless control,remote control.,0.45,False,1
+4,garden spade,garden tool.,0.41,False,1
+5,tire swing,type of swing.,0.42,False,1
+6,basketball,type of fruit.,0.54,False,1
+7,bottle of pills,bottle of pills.,0.46,True,1
+8,pasta strainer,type of pasta strainer.,0.58,True,1
+9,tennis racket,tennis racket.,0.48,True,1
+10,snowglobe,snowglobe.,0.95,True,1
+11,statuette,statuette.,0.51,True,1
+12,purse/bag,type of purse or bag.,0.43,False,1
+13,tweezers,"type of tool used for precision work, such as removing splinters or picking up",0.45,False,1
+14,container of pudding,type of food.,0.95,False,1
+15,fish,type of fish.,0.97,True,1
+16,trucks,toy truck.,0.47,False,1
+17,empty bottle,type of bottle.,0.81,False,1
+18,squirrel,type of animal.,0.85,False,1
+19,bed,type of vegetable.,0.8,False,1
